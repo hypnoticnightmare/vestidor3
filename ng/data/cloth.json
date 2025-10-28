@@ -2248,6 +2248,24 @@
     },
 
     {
+        "groupId":1257, "zone":"torso_waistToKnee", "category":"dress", "security":"f6e94e12267ff8ab", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Hololove",
+        "variations":[
+            {"id":1257, "colors":["purple"]},
+            {"id":1258, "colors":["pink"]},
+            {"id":1259, "colors":["blue"]},
+            {"id":1260, "colors":["black"]},
+            {"id":1261, "colors":["yellow"]},
+            {"id":1262, "colors":["red"]},
+            {"id":1263, "colors":["green"]},
+            {"id":1264, "colors":["purple"]},
+            {"id":1265, "colors":["blue"]},
+            {"id":1266, "colors":["yellow","white"]}
+        ], "criteria":{"type":"jobTask", "info":"Casco (Episodio 18)", "text":"Desbloqueado en la Misión del día\nCasco"},
+        "releaseDate":"2025-08-01"
+    },
+    {
         "groupId":1267, "zone":"torso_waistToKnee", "category":"waist", "security":"368d9dd988ebc999", "multiLayered":false, "layerBehavior":"normal",
         "name":"Arnés",
         "outfitName":"Hololove",
@@ -2266,6 +2284,24 @@
         "releaseDate":"2025-05-30"
     },
 
+    {
+        "groupId":1287, "zone":"torso_waistToKnee", "category":"dress", "security":"aa1a2f7a264eea3c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Femme Fatale",
+        "variations":[
+            {"id":1287, "colors":["red"]},
+            {"id":1288, "colors":["pink"]},
+            {"id":1289, "colors":["white"]},
+            {"id":1290, "colors":["yellow"]},
+            {"id":1291, "colors":["green"]},
+            {"id":1292, "colors":["black"]},
+            {"id":1293, "colors":["brown"]},
+            {"id":1294, "colors":["purple"]},
+            {"id":1295, "colors":["blue"]},
+            {"id":1296, "colors":["brown"]}
+        ], "criteria":{"type":"jobTask", "info":"Casco (Episodio 18)", "text":"Desbloqueado en la Misión del día\nCasco"},
+        "releaseDate":"2025-08-01"
+    },
     {
         "groupId":1297, "zone":"feet", "category":"shoes", "security":"5c93f742eecffe7e", "multiLayered":false, "layerBehavior":"normal",
         "name":"Botas altas",
@@ -2646,6 +2682,25 @@
     },
 
     {
+        "groupId":1509, "zone":"torso", "category":"jacket", "security":"468baa3750615e2e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Abrigo",
+        "outfitName":"What the F***?",
+        "variations":[
+            {"id":1509, "colors":["green","blue"]},
+            {"id":1510, "colors":["pink","purple"]},
+            {"id":1511, "colors":["black","white"]},
+            {"id":1512, "colors":["yellow"]},
+            {"id":1513, "colors":["pink","purple"]},
+            {"id":1514, "colors":["red","brown"]},
+            {"id":1515, "colors":["black","grey"]},
+            {"id":1516, "colors":["blue","pink"]},
+            {"id":1517, "colors":["green"]},
+            {"id":1518, "colors":["yellow"]}
+        ], "criteria":{"type":"jobTask", "info":"Casco (Episodio 18)", "text":"Desbloqueado en la Misión del día\nCasco"},
+        "releaseDate":"2025-08-01"
+    },
+
+    {
         "groupId":1539, "zone":"waistToKnee", "category":"pants", "security":"8959f31ef1eb963f", "multiLayered":false, "layerBehavior":"normal",
         "name":"Pantalones",
         "outfitName":"What the F***?",
@@ -2663,7 +2718,24 @@
         ], "criteria":{"type":"jobTask", "info":"Grapadora (Episodio 16)", "text":"Desbloqueado en la Misión del día\nGrapadora"},
         "releaseDate":"2025-05-30"
     },
-
+    {
+        "groupId":1549, "zone":"torso_waistToKnee", "category":"underwear", "security":"80bc313b209440f5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body",
+        "outfitName":"Magical Heart",
+        "variations":[
+            {"id":1549, "colors":["pink","multi"]},
+            {"id":1550, "colors":["purple","multi"]},
+            {"id":1551, "colors":["blue","multi"]},
+            {"id":1552, "colors":["white","multi"]},
+            {"id":1553, "colors":["yellow","multi"]},
+            {"id":1554, "colors":["blue","multi"]},
+            {"id":1555, "colors":["black","multi"]},
+            {"id":1556, "colors":["purple","multi"]},
+            {"id":1557, "colors":["grey"]},
+            {"id":1558, "colors":["red","multi"]}
+        ], "criteria":{"type":"jobTask", "info":"Casco (Episodio 18)", "text":"Desbloqueado en la Misión del día\nCasco"},
+        "releaseDate":"2025-08-01"
+    },
     {
         "groupId":1559, "zone":"arms", "category":"gloves", "security":"4592fc37417ba1b0", "multiLayered":false, "layerBehavior":"normal",
         "name":"Guantes",
@@ -2757,7 +2829,24 @@
         ], "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"},
         "releaseDate":"2024-12-04"
     },
-
+    {
+        "groupId":1669, "zone":"feet", "category":"shoes", "security":"3fa5acdbc9620bd9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Playing in the Rain",
+        "variations":[
+            {"id":1669, "colors":["green"]},
+            {"id":1670, "colors":["blue"]},
+            {"id":1671, "colors":["orange"]},
+            {"id":1672, "colors":["red","black"]},
+            {"id":1673, "colors":["white"]},
+            {"id":1674, "colors":["blue"]},
+            {"id":1675, "colors":["black"]},
+            {"id":1676, "colors":["pink"]},
+            {"id":1677, "colors":["brown"]},
+            {"id":1678, "colors":["yellow"]}
+        ], "criteria":{"type":"jobTask", "info":"Casco (Episodio 18)", "text":"Desbloqueado en la Misión del día\nCasco"},
+        "releaseDate":"2025-08-01"
+    },
 
     {
         "groupId":1689, "zone":"torso", "category":"top", "security":"4c0b88c56826f392", "multiLayered":false, "layerBehavior":"normal",
@@ -2844,6 +2933,25 @@
     },
 
     {
+        "groupId":1780, "zone":"head", "category":"wig", "security":"d1bc61b2a833de5a", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Flowerly",
+        "variations":[
+            {"id":1780, "colors":["brown"]},
+            {"id":1781, "colors":["white"]},
+            {"id":1782, "colors":["black"]},
+            {"id":1783, "colors":["blue"]},
+            {"id":1784, "colors":["blue"]},
+            {"id":1785, "colors":["purple"]},
+            {"id":1786, "colors":["red"]},
+            {"id":1787, "colors":["yellow"]},
+            {"id":1788, "colors":["orange"]},
+            {"id":1789, "colors":["pink"]}
+        ], "criteria":{"type":"jobTask", "info":"Casco (Episodio 18)", "text":"Desbloqueado en la Misión del día\nCasco"},
+        "releaseDate":"2025-08-01"
+    },
+
+    {
         "groupId":1800, "zone":"feet", "category":"shoes", "security":"54551a0957b0dfff", "multiLayered":false, "layerBehavior":"normal",
         "name":"Botas",
         "outfitName":"Royal Fighter",
@@ -2915,6 +3023,24 @@
             {"id":1859, "colors":["pink","white"]}
         ], "criteria":{"type":"jobTask", "info":"Pantalla PC", "text":"Desbloqueado en la Misión del día\nPantalla PC"},
         "releaseDate":"2024-04-17"
+    },
+    {
+        "groupId":1860, "zone":"head", "category":"hat", "security":"cb8d43d9f8d45cfb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Diadema",
+        "outfitName":"Royal Fighter",
+        "variations":[
+            {"id":1860, "colors":["silver"]},
+            {"id":1861, "colors":["blue"]},
+            {"id":1862, "colors":["purple"]},
+            {"id":1863, "colors":["brown"]},
+            {"id":1864, "colors":["golden"]},
+            {"id":1865, "colors":["black"]},
+            {"id":1866, "colors":["silver","white"]},
+            {"id":1867, "colors":["golden"]},
+            {"id":1868, "colors":["blue"]},
+            {"id":1869, "colors":["pink"]}
+        ], "criteria":{"type":"jobTask", "info":"Casco (Episodio 18)", "text":"Desbloqueado en la Misión del día\nCasco"},
+        "releaseDate":"2025-08-01"
     },
     {
         "groupId":1870, "zone":"torso_waistToKnee", "category":"waist", "security":"0429d8570c2eebfd", "multiLayered":false, "layerBehavior":"normal",
@@ -14036,7 +14162,196 @@
         ], "criteria":{"type":"episode", "info":"14", "text":"Desbloqueado en el episodio 14"},
         "releaseDate":"2025-03-28"
     },
-
+    {
+        "groupId":8122, "zone":"waistToKnee", "category":"pants", "security":"7549d73714c04f1c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"Pixel Adventurer",
+        "variations":[
+            {"id":8122, "colors":["black"]},
+            {"id":8123, "colors":["white"]},
+            {"id":8124, "colors":["purple"]},
+            {"id":8125, "colors":["blue"]},
+            {"id":8126, "colors":["green"]},
+            {"id":8127, "colors":["brown"]},
+            {"id":8128, "colors":["red"]},
+            {"id":8129, "colors":["brown"]},
+            {"id":8130, "colors":["orange"]},
+            {"id":8131, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":8132, "zone":"arms", "category":"gloves", "security":"ca26fc3b4623ea0f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Manoplas",
+        "outfitName":"Pixel Adventurer",
+        "variations":[
+            {"id":8132, "colors":["purple","brown"]},
+            {"id":8133, "colors":["white"]},
+            {"id":8134, "colors":["black","grey"]},
+            {"id":8135, "colors":["blue","grey"]},
+            {"id":8136, "colors":["green"]},
+            {"id":8137, "colors":["brown"]},
+            {"id":8138, "colors":["red"]},
+            {"id":8139, "colors":["brown"]},
+            {"id":8140, "colors":["orange","yellow"]},
+            {"id":8141, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":8142, "zone":"arms", "category":"bag", "security":"320e6a80697ed801", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Magia",
+        "outfitName":"Pixel Adventurer",
+        "variations":[
+            {"id":8142, "colors":["purple"]},
+            {"id":8143, "colors":["white"]},
+            {"id":8144, "colors":["black"]},
+            {"id":8145, "colors":["blue"]},
+            {"id":8146, "colors":["green"]},
+            {"id":8147, "colors":["brown"]},
+            {"id":8148, "colors":["red"]},
+            {"id":8149, "colors":["yellow"]},
+            {"id":8150, "colors":["orange"]},
+            {"id":8151, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":8152, "zone":"torso", "category":"top", "security":"f2974ab3d4b0d07d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pechera",
+        "outfitName":"Pixel Adventurer",
+        "variations":[
+            {"id":8152, "colors":["purple","brown","silver"]},
+            {"id":8153, "colors":["white","golden"]},
+            {"id":8154, "colors":["black","silver"]},
+            {"id":8155, "colors":["blue","grey","silver"]},
+            {"id":8156, "colors":["green","golden"]},
+            {"id":8157, "colors":["brown","golden"]},
+            {"id":8158, "colors":["red","golden"]},
+            {"id":8159, "colors":["yellow","brown","golden"]},
+            {"id":8160, "colors":["orange","golden"]},
+            {"id":8161, "colors":["pink","silver"]}
+        ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":8162, "zone":"feet", "category":"shoes", "security":"f48067ca262baa15", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas altas",
+        "outfitName":"Pixel Adventurer",
+        "variations":[
+            {"id":8162, "colors":["brown","black","purple"]},
+            {"id":8163, "colors":["white"]},
+            {"id":8164, "colors":["black"]},
+            {"id":8165, "colors":["blue","grey"]},
+            {"id":8166, "colors":["green"]},
+            {"id":8167, "colors":["brown"]},
+            {"id":8168, "colors":["red","brown"]},
+            {"id":8169, "colors":["yellow","brown"]},
+            {"id":8170, "colors":["orange","yellow"]},
+            {"id":8171, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":8172, "zone":"torso_waistToKnee", "category":"waist", "security":"71151f2553d12fbd", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Pixel Adventurer",
+        "variations":[
+            {"id":8172, "colors":["purple","brown","golden"]},
+            {"id":8173, "colors":["white","brown","golden"]},
+            {"id":8174, "colors":["black","silver"]},
+            {"id":8175, "colors":["blue","grey","silver"]},
+            {"id":8176, "colors":["green","golden"]},
+            {"id":8177, "colors":["brown","golden"]},
+            {"id":8178, "colors":["red","golden"]},
+            {"id":8179, "colors":["yellow","brown","golden"]},
+            {"id":8180, "colors":["orange","golden"]},
+            {"id":8181, "colors":["pink","silver"]}
+        ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":8182, "zone":"torso", "category":"jacket", "security":"a9f53376552ade86", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Hombreras",
+        "outfitName":"Pixel Adventurer",
+        "variations":[
+            {"id":8182, "colors":["purple","brown","silver"]},
+            {"id":8183, "colors":["white","golden"]},
+            {"id":8184, "colors":["black","silver"]},
+            {"id":8185, "colors":["blue","grey","silver"]},
+            {"id":8186, "colors":["green","golden"]},
+            {"id":8187, "colors":["brown","golden"]},
+            {"id":8188, "colors":["red","golden"]},
+            {"id":8189, "colors":["yellow","brown","golden"]},
+            {"id":8190, "colors":["golden","orange","yellow"]},
+            {"id":8191, "colors":["pink","silver"]}
+        ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":8192, "zone":"head", "category":"wig", "security":"d4d13e710acc7df2", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Pixel Adventurer",
+        "variations":[
+            {"id":8192, "colors":["brown","silver"]},
+            {"id":8193, "colors":["silver","white"]},
+            {"id":8194, "colors":["black","silver"]},
+            {"id":8195, "colors":["blue","silver"]},
+            {"id":8196, "colors":["blue","silver"]},
+            {"id":8197, "colors":["purple","silver"]},
+            {"id":8198, "colors":["red","silver"]},
+            {"id":8199, "colors":["silver","yellow"]},
+            {"id":8200, "colors":["orange","silver"]},
+            {"id":8201, "colors":["pink","silver"]},
+            {"id":8202, "colors":["brown","golden"]},
+            {"id":8203, "colors":["golden","white"]},
+            {"id":8204, "colors":["black","golden"]},
+            {"id":8205, "colors":["blue","golden"]},
+            {"id":8206, "colors":["blue","golden"]},
+            {"id":8207, "colors":["golden"]},
+            {"id":8208, "colors":["golden","red"]},
+            {"id":8209, "colors":["golden","purple"]},
+            {"id":8210, "colors":["golden","orange"]},
+            {"id":8211, "colors":["golden","pink"]}
+        ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":8212, "zone":"arms", "category":"bag", "security":"a417d6bac681a73b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Espada",
+        "outfitName":"Pixel Adventurer",
+        "variations":[
+            {"id":8212, "colors":["purple","silver"]},
+            {"id":8213, "colors":["white","golden"]},
+            {"id":8214, "colors":["black","silver"]},
+            {"id":8215, "colors":["blue","silver"]},
+            {"id":8216, "colors":["green","golden"]},
+            {"id":8217, "colors":["brown","golden"]},
+            {"id":8218, "colors":["red","golden"]},
+            {"id":8219, "colors":["yellow","golden"]},
+            {"id":8220, "colors":["orange","golden"]},
+            {"id":8221, "colors":["pink","silver"]}
+        ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":8222, "zone":"general", "category":"other", "security":"bcb04242162db6af", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ambiente",
+        "outfitName":"Pixel Adventurer",
+        "variations":[
+            {"id":8222, "colors":["purple"]},
+            {"id":8223, "colors":["white"]},
+            {"id":8224, "colors":["black"]},
+            {"id":8225, "colors":["blue"]},
+            {"id":8226, "colors":["green"]},
+            {"id":8227, "colors":["brown"]},
+            {"id":8228, "colors":["red"]},
+            {"id":8229, "colors":["yellow"]},
+            {"id":8230, "colors":["orange"]},
+            {"id":8231, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
+        "releaseDate":"2025-09-03"
+    },
     {
         "groupId":8232, "zone":"torso_waistToKnee", "category":"underwear", "security":"8c492a60f07f9da5", "multiLayered":false, "layerBehavior":"normal",
         "name":"Ropa interior",
@@ -17031,6 +17346,366 @@
         ], "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
         "releaseDate":"2025-06-15"
     },
+    {
+        "groupId":9959, "zone":"torso_waistToKnee", "category":"underwear", "security":"9d0860d0e456e620", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lencería",
+        "outfitName":"Netflix...",
+        "variations":[
+            {"id":9959, "colors":["blue","yellow"]},
+            {"id":9960, "colors":["blue"]},
+            {"id":9961, "colors":["red"]},
+            {"id":9962, "colors":["pink"]},
+            {"id":9963, "colors":["black"]},
+            {"id":9964, "colors":["green"]},
+            {"id":9965, "colors":["purple"]},
+            {"id":9966, "colors":["yellow"]},
+            {"id":9967, "colors":["orange"]},
+            {"id":9968, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":9969, "zone":"feet", "category":"socks", "security":"ab7f0f637b1f4c3c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantys",
+        "outfitName":"Netflix...",
+        "variations":[
+            {"id":9969, "colors":["black"]},
+            {"id":9970, "colors":["blue"]},
+            {"id":9971, "colors":["red"]},
+            {"id":9972, "colors":["pink"]},
+            {"id":9973, "colors":["black"]},
+            {"id":9974, "colors":["green"]},
+            {"id":9975, "colors":["purple"]},
+            {"id":9976, "colors":["orange"]},
+            {"id":9977, "colors":["red"]},
+            {"id":9978, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":9979, "zone":"feet", "category":"socks", "security":"e0e7d155540f76a2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Calcetines",
+        "outfitName":"Netflix...",
+        "variations":[
+            {"id":9979, "colors":["brown"]},
+            {"id":9980, "colors":["blue"]},
+            {"id":9981, "colors":["red"]},
+            {"id":9982, "colors":["pink"]},
+            {"id":9983, "colors":["black"]},
+            {"id":9984, "colors":["green"]},
+            {"id":9985, "colors":["purple"]},
+            {"id":9986, "colors":["yellow"]},
+            {"id":9987, "colors":["orange"]},
+            {"id":9988, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":9989, "zone":"torso_waistToKnee", "category":"dress", "security":"c7532f808b9a02d7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido jersey",
+        "outfitName":"Netflix...",
+        "variations":[
+            {"id":9989, "colors":["pink"]},
+            {"id":9990, "colors":["brown"]},
+            {"id":9991, "colors":["black"]},
+            {"id":9992, "colors":["white"]},
+            {"id":9993, "colors":["yellow"]},
+            {"id":9994, "colors":["orange"]},
+            {"id":9995, "colors":["red"]},
+            {"id":9996, "colors":["purple"]},
+            {"id":9997, "colors":["blue"]},
+            {"id":9998, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":9999, "zone":"head", "category":"earring", "security":"1f487fe3811749f6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Netflix...",
+        "variations":[
+            {"id":9999, "colors":["golden","white"]},
+            {"id":10000, "colors":["blue","green","silver"]},
+            {"id":10001, "colors":["golden","red"]},
+            {"id":10002, "colors":["golden","pink"]},
+            {"id":10003, "colors":["black","silver"]},
+            {"id":10004, "colors":["green","golden"]},
+            {"id":10005, "colors":["purple","silver"]},
+            {"id":10006, "colors":["golden","yellow"]},
+            {"id":10007, "colors":["orange","silver"]},
+            {"id":10008, "colors":["brown","silver"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10009, "zone":"head", "category":"hat", "security":"89f4e5bbfcffe217", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Horquillas rojas",
+        "outfitName":"Netflix...",
+        "variations":[
+            {"id":10009, "colors":["white","golden"]},
+            {"id":10010, "colors":["blue","silver"]},
+            {"id":10011, "colors":["red","golden"]},
+            {"id":10012, "colors":["pink","golden"]},
+            {"id":10013, "colors":["black","silver"]},
+            {"id":10014, "colors":["green","golden"]},
+            {"id":10015, "colors":["purple","silver"]},
+            {"id":10016, "colors":["yellow","golden"]},
+            {"id":10017, "colors":["orange","silver"]},
+            {"id":10018, "colors":["brown","silver"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10019, "zone":"arms", "category":"bag", "security":"c1e6ecc6eb569255", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Taza",
+        "outfitName":"Netflix...",
+        "variations":[
+            {"id":10019, "colors":["white"]},
+            {"id":10020, "colors":["brown"]},
+            {"id":10021, "colors":["black"]},
+            {"id":10022, "colors":["pink"]},
+            {"id":10023, "colors":["yellow"]},
+            {"id":10024, "colors":["orange"]},
+            {"id":10025, "colors":["red"]},
+            {"id":10026, "colors":["purple"]},
+            {"id":10027, "colors":["blue"]},
+            {"id":10028, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10029, "zone":"torso_waistToKnee", "category":"underwear", "security":"bd242f2ca5693771", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ropa interior",
+        "outfitName":"...And Chill",
+        "variations":[
+            {"id":10029, "colors":["black","golden"]},
+            {"id":10030, "colors":["brown","golden"]},
+            {"id":10031, "colors":["purple","silver"]},
+            {"id":10032, "colors":["white","golden"]},
+            {"id":10033, "colors":["green","silver"]},
+            {"id":10034, "colors":["yellow","silver"]},
+            {"id":10035, "colors":["pink","golden"]},
+            {"id":10036, "colors":["green","silver"]},
+            {"id":10037, "colors":["red","golden"]},
+            {"id":10038, "colors":["blue","silver"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10039, "zone":"arms", "category":"handNailPolish", "security":"f0bacf32be6f5f3b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Esmalte uñas",
+        "outfitName":"...And Chill",
+        "variations":[
+            {"id":10039, "colors":["brown"]},
+            {"id":10040, "colors":["white"]},
+            {"id":10041, "colors":["black"]},
+            {"id":10042, "colors":["pink"]},
+            {"id":10043, "colors":["purple"]},
+            {"id":10044, "colors":["green"]},
+            {"id":10045, "colors":["red"]},
+            {"id":10046, "colors":["yellow"]},
+            {"id":10047, "colors":["blue"]},
+            {"id":10048, "colors":["blue","green"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10049, "zone":"arms", "category":"armAccessory", "security":"4c3c817578e4cd49", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Anillos",
+        "outfitName":"...And Chill",
+        "variations":[
+            {"id":10049, "colors":["golden"]},
+            {"id":10050, "colors":["brown"]},
+            {"id":10051, "colors":["purple"]},
+            {"id":10052, "colors":["white"]},
+            {"id":10053, "colors":["blue"]},
+            {"id":10054, "colors":["orange","golden"]},
+            {"id":10055, "colors":["pink"]},
+            {"id":10056, "colors":["green"]},
+            {"id":10057, "colors":["red"]},
+            {"id":10058, "colors":["black"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10059, "zone":"head", "category":"earring", "security":"18c69da03dee2112", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"...And Chill",
+        "variations":[
+            {"id":10059, "colors":["brown"]},
+            {"id":10060, "colors":["white"]},
+            {"id":10061, "colors":["black"]},
+            {"id":10062, "colors":["pink"]},
+            {"id":10063, "colors":["purple"]},
+            {"id":10064, "colors":["green"]},
+            {"id":10065, "colors":["red"]},
+            {"id":10066, "colors":["yellow"]},
+            {"id":10067, "colors":["blue"]},
+            {"id":10068, "colors":["multi"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10069, "zone":"feet", "category":"shoes", "security":"2e01e088bb6b9b4e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bailarinas",
+        "outfitName":"...And Chill",
+        "variations":[
+            {"id":10069, "colors":["brown"]},
+            {"id":10070, "colors":["white"]},
+            {"id":10071, "colors":["black"]},
+            {"id":10072, "colors":["pink"]},
+            {"id":10073, "colors":["purple"]},
+            {"id":10074, "colors":["green"]},
+            {"id":10075, "colors":["red"]},
+            {"id":10076, "colors":["yellow"]},
+            {"id":10077, "colors":["blue"]},
+            {"id":10078, "colors":["blue","green"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10079, "zone":"waistToKnee", "category":"pants", "security":"258a0b742ba01b05", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"...And Chill",
+        "variations":[
+            {"id":10079, "colors":["brown"]},
+            {"id":10080, "colors":["white"]},
+            {"id":10081, "colors":["black"]},
+            {"id":10082, "colors":["pink"]},
+            {"id":10083, "colors":["purple"]},
+            {"id":10084, "colors":["green"]},
+            {"id":10085, "colors":["red"]},
+            {"id":10086, "colors":["yellow"]},
+            {"id":10087, "colors":["blue"]},
+            {"id":10088, "colors":["blue","green"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10089, "zone":"torso", "category":"jacket", "security":"78984535dc550d2f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Rebeca",
+        "outfitName":"...And Chill",
+        "variations":[
+            {"id":10089, "colors":["brown"]},
+            {"id":10090, "colors":["white"]},
+            {"id":10091, "colors":["black"]},
+            {"id":10092, "colors":["pink"]},
+            {"id":10093, "colors":["purple"]},
+            {"id":10094, "colors":["green"]},
+            {"id":10095, "colors":["red"]},
+            {"id":10096, "colors":["yellow"]},
+            {"id":10097, "colors":["blue"]},
+            {"id":10098, "colors":["blue","green"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10099, "zone":"feet", "category":"shoes", "security":"596d982e53aff766", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Salones",
+        "outfitName":"Wiggly Jelly",
+        "variations":[
+            {"id":10099, "colors":["blue","pink"]},
+            {"id":10100, "colors":["red","blue"]},
+            {"id":10101, "colors":["yellow","orange"]},
+            {"id":10102, "colors":["yellow","pink"]},
+            {"id":10103, "colors":["green"]},
+            {"id":10104, "colors":["white","orange"]},
+            {"id":10105, "colors":["blue","purple"]},
+            {"id":10106, "colors":["black","purple"]},
+            {"id":10107, "colors":["blue","white"]},
+            {"id":10108, "colors":["blue","green"]}
+        ], "criteria":{"type":"calendar", "info":"2025-17", "text":"Desbloqueado en el calendario\nN°17 - 2025"},
+        "releaseDate":"2025-08-04"
+    },
+    {
+        "groupId":10109, "zone":"arms", "category":"armAccessory", "security":"7d43c5d615a4982f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mangas",
+        "outfitName":"Wiggly Jelly",
+        "variations":[
+            {"id":10109, "colors":["blue","pink"]},
+            {"id":10110, "colors":["red","blue"]},
+            {"id":10111, "colors":["yellow","orange"]},
+            {"id":10112, "colors":["yellow","pink"]},
+            {"id":10113, "colors":["white","green"]},
+            {"id":10114, "colors":["white","orange"]},
+            {"id":10115, "colors":["blue","purple"]},
+            {"id":10116, "colors":["black","purple"]},
+            {"id":10117, "colors":["blue","white"]},
+            {"id":10118, "colors":["blue","green"]}
+        ], "criteria":{"type":"calendar", "info":"2025-17", "text":"Desbloqueado en el calendario\nN°17 - 2025"},
+        "releaseDate":"2025-08-04"
+    },
+    {
+        "groupId":10119, "zone":"torso_waistToKnee", "category":"dress", "security":"9ce9036f57b9c457", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Wiggly Jelly",
+        "variations":[
+            {"id":10119, "colors":["blue","pink"]},
+            {"id":10120, "colors":["red","blue"]},
+            {"id":10121, "colors":["yellow","orange"]},
+            {"id":10122, "colors":["yellow","pink"]},
+            {"id":10123, "colors":["white","green"]},
+            {"id":10124, "colors":["white","orange"]},
+            {"id":10125, "colors":["blue","purple"]},
+            {"id":10126, "colors":["black","purple"]},
+            {"id":10127, "colors":["blue","white"]},
+            {"id":10128, "colors":["blue","green"]}
+        ], "criteria":{"type":"calendar", "info":"2025-17", "text":"Desbloqueado en el calendario\nN°17 - 2025"},
+        "releaseDate":"2025-08-04"
+    },
+    {
+        "groupId":10129, "zone":"torso_waistToKnee", "category":"waist", "security":"6e868e6300fd885a", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Tentáculos",
+        "outfitName":"Wiggly Jelly",
+        "variations":[
+            {"id":10129, "colors":["blue","pink"]},
+            {"id":10130, "colors":["red","blue"]},
+            {"id":10131, "colors":["yellow","orange"]},
+            {"id":10132, "colors":["yellow","pink"]},
+            {"id":10133, "colors":["white","green"]},
+            {"id":10134, "colors":["white","orange"]},
+            {"id":10135, "colors":["blue","purple"]},
+            {"id":10136, "colors":["black","purple"]},
+            {"id":10137, "colors":["blue","white"]},
+            {"id":10138, "colors":["blue","green"]}
+        ], "criteria":{"type":"calendar", "info":"2025-17", "text":"Desbloqueado en el calendario\nN°17 - 2025"},
+        "releaseDate":"2025-08-04"
+    },
+    {
+        "groupId":10139, "zone":"head", "category":"hat", "security":"dbde6cbbcd71a0d4", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Sombrilla",
+        "outfitName":"Wiggly Jelly",
+        "variations":[
+            {"id":10139, "colors":["blue","pink"]},
+            {"id":10140, "colors":["red","blue"]},
+            {"id":10141, "colors":["yellow","orange"]},
+            {"id":10142, "colors":["yellow","pink"]},
+            {"id":10143, "colors":["white","green"]},
+            {"id":10144, "colors":["white","orange"]},
+            {"id":10145, "colors":["blue","purple"]},
+            {"id":10146, "colors":["black","purple"]},
+            {"id":10147, "colors":["blue","white"]},
+            {"id":10148, "colors":["blue","green"]}
+        ], "criteria":{"type":"calendar", "info":"2025-17", "text":"Desbloqueado en el calendario\nN°17 - 2025"},
+        "releaseDate":"2025-08-04"
+    },
+    {
+        "groupId":10149, "zone":"general", "category":"other", "security":"f1d87f41015b42d0", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Medusas",
+        "outfitName":"Wiggly Jelly",
+        "variations":[
+            {"id":10149, "colors":["blue","pink"]},
+            {"id":10150, "colors":["red","blue"]},
+            {"id":10151, "colors":["yellow","orange"]},
+            {"id":10152, "colors":["yellow","pink"]},
+            {"id":10153, "colors":["white","green"]},
+            {"id":10154, "colors":["white","orange"]},
+            {"id":10155, "colors":["blue","purple"]},
+            {"id":10156, "colors":["black","purple"]},
+            {"id":10157, "colors":["blue","white"]},
+            {"id":10158, "colors":["blue","green"]}
+        ], "criteria":{"type":"calendar", "info":"2025-17", "text":"Desbloqueado en el calendario\nN°17 - 2025"},
+        "releaseDate":"2025-08-04"
+    },
 
 
     {
@@ -17223,21 +17898,1663 @@
         "releaseDate":"2025-07-30"
     },
     {
-        "groupId":10009, "zone":"head", "category":"hats", "security":"89f4e5bbfcffe217", "multiLayered":true, "layerBehavior":"normal",
-        "name":"Barrettes",
-        "outfitName":"Netflix...",
+        "groupId":10312, "zone":"torso_waistToKnee", "category":"underwear", "security":"573ac6893a0a226c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ropa interior",
+        "outfitName":"Sleeping in Cotton",
         "variations":[
-            {"id":10009, "colors":["white"]},
-            {"id":10010, "colors":["blue"]},
-            {"id":10011, "colors":["red"]},
-            {"id":10012, "colors":["pink"]},
-            {"id":10013, "colors":["black"]},
-            {"id":10014, "colors":["green"]},
-            {"id":10015, "colors":["purple"]},
-            {"id":10016, "colors":["yellow"]},
-            {"id":10017, "colors":["orange"]},
-            {"id":10018, "colors":["brown"]}
-        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
-        "releaseDate":"2025-08-01"
+            {"id":10312, "colors":["blue"]},
+            {"id":10313, "colors":["pink"]},
+            {"id":10314, "colors":["green"]},
+            {"id":10315, "colors":["purple"]},
+            {"id":10316, "colors":["white"]},
+            {"id":10317, "colors":["black"]},
+            {"id":10318, "colors":["green"]},
+            {"id":10319, "colors":["brown"]},
+            {"id":10320, "colors":["yellow"]},
+            {"id":10321, "colors":["red"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
+    },
+    {
+        "groupId":10322, "zone":"head", "category":"earring", "security":"45f3c92279ead3d4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendiente",
+        "outfitName":"Sleeping in Cotton",
+        "variations":[
+            {"id":10322, "colors":["purple"]},
+            {"id":10323, "colors":["pink"]},
+            {"id":10324, "colors":["green"]},
+            {"id":10325, "colors":["blue"]},
+            {"id":10326, "colors":["white"]},
+            {"id":10327, "colors":["black"]},
+            {"id":10328, "colors":["blue"]},
+            {"id":10329, "colors":["orange"]},
+            {"id":10330, "colors":["yellow"]},
+            {"id":10331, "colors":["red"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
+    },
+    {
+        "groupId":10332, "zone":"waistToKnee", "category":"pants", "security":"111644def9bf1dd2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shorty",
+        "outfitName":"Sleeping in Cotton",
+        "variations":[
+            {"id":10332, "colors":["blue"]},
+            {"id":10333, "colors":["pink"]},
+            {"id":10334, "colors":["green"]},
+            {"id":10335, "colors":["purple"]},
+            {"id":10336, "colors":["white"]},
+            {"id":10337, "colors":["black"]},
+            {"id":10338, "colors":["green"]},
+            {"id":10339, "colors":["brown"]},
+            {"id":10340, "colors":["yellow"]},
+            {"id":10341, "colors":["red"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
+    },
+    {
+        "groupId":10342, "zone":"torso", "category":"top", "security":"820497d073f5bf13", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Sleeping in Cotton",
+        "variations":[
+            {"id":10342, "colors":["blue"]},
+            {"id":10343, "colors":["pink"]},
+            {"id":10344, "colors":["green"]},
+            {"id":10345, "colors":["purple"]},
+            {"id":10346, "colors":["white"]},
+            {"id":10347, "colors":["black"]},
+            {"id":10348, "colors":["green"]},
+            {"id":10349, "colors":["brown"]},
+            {"id":10350, "colors":["yellow"]},
+            {"id":10351, "colors":["red"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
+    },
+    {
+        "groupId":10352, "zone":"torso", "category":"jacket", "security":"f0cdf519aa1ed6a1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Sleeping in Cotton",
+        "variations":[
+            {"id":10352, "colors":["blue"]},
+            {"id":10353, "colors":["pink"]},
+            {"id":10354, "colors":["green"]},
+            {"id":10355, "colors":["purple"]},
+            {"id":10356, "colors":["white"]},
+            {"id":10357, "colors":["black"]},
+            {"id":10358, "colors":["green"]},
+            {"id":10359, "colors":["brown"]},
+            {"id":10360, "colors":["yellow"]},
+            {"id":10361, "colors":["red"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
+    },
+    {
+        "groupId":10362, "zone":"arms", "category":"bag", "security":"be185a381d95468d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Almohada",
+        "outfitName":"Sleeping in Cotton",
+        "variations":[
+            {"id":10362, "colors":["purple"]},
+            {"id":10363, "colors":["red"]},
+            {"id":10364, "colors":["blue"]},
+            {"id":10365, "colors":["yellow"]},
+            {"id":10366, "colors":["pink"]},
+            {"id":10367, "colors":["white"]},
+            {"id":10368, "colors":["green"]},
+            {"id":10369, "colors":["black"]},
+            {"id":10370, "colors":["brown"]},
+            {"id":10371, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
+    },
+    {
+        "groupId":10372, "zone":"feet", "category":"footNailPolish", "security":"8de644188ccb11cb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Esmalte uñas",
+        "outfitName":"Sleeping in Satin",
+        "variations":[
+            {"id":10372, "colors":["purple"]},
+            {"id":10373, "colors":["blue","green"]},
+            {"id":10374, "colors":["pink"]},
+            {"id":10375, "colors":["yellow","orange"]},
+            {"id":10376, "colors":["white"]},
+            {"id":10377, "colors":["black","grey"]},
+            {"id":10378, "colors":["red"]},
+            {"id":10379, "colors":["blue"]},
+            {"id":10380, "colors":["brown"]},
+            {"id":10381, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
+    },
+    {
+        "groupId":10382, "zone":"torso_waistToKnee", "category":"underwear", "security":"eb5def7cff5b15f1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ropa interior",
+        "outfitName":"Sleeping in Satin",
+        "variations":[
+            {"id":10382, "colors":["purple"]},
+            {"id":10383, "colors":["green"]},
+            {"id":10384, "colors":["pink"]},
+            {"id":10385, "colors":["yellow"]},
+            {"id":10386, "colors":["white"]},
+            {"id":10387, "colors":["black"]},
+            {"id":10388, "colors":["red"]},
+            {"id":10389, "colors":["blue"]},
+            {"id":10390, "colors":["brown"]},
+            {"id":10391, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
+    },
+    {
+        "groupId":10392, "zone":"feet", "category":"shoes", "security":"7958ce49ccd8930a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatillas",
+        "outfitName":"Sleeping in Satin",
+        "variations":[
+            {"id":10392, "colors":["purple"]},
+            {"id":10393, "colors":["green"]},
+            {"id":10394, "colors":["pink"]},
+            {"id":10395, "colors":["yellow"]},
+            {"id":10396, "colors":["white"]},
+            {"id":10397, "colors":["black"]},
+            {"id":10398, "colors":["red"]},
+            {"id":10399, "colors":["blue"]},
+            {"id":10400, "colors":["brown"]},
+            {"id":10401, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
+    },
+    {
+        "groupId":10402, "zone":"face", "category":"neckAccessory", "security":"8ae6a23f1dd097ab", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Sleeping in Satin",
+        "variations":[
+            {"id":10402, "colors":["golden","blue"]},
+            {"id":10403, "colors":["purple","silver"]},
+            {"id":10404, "colors":["golden","pink"]},
+            {"id":10405, "colors":["golden","yellow"]},
+            {"id":10406, "colors":["white","silver"]},
+            {"id":10407, "colors":["black","silver"]},
+            {"id":10408, "colors":["red"]},
+            {"id":10409, "colors":["silver","blue"]},
+            {"id":10410, "colors":["pink","golden"]},
+            {"id":10411, "colors":["silver","green"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
+    },
+    {
+        "groupId":10412, "zone":"torso_waistToKnee", "category":"dress", "security":"5eb0b2324af4cb8d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Picardías",
+        "outfitName":"Sleeping in Satin",
+        "variations":[
+            {"id":10412, "colors":["purple"]},
+            {"id":10413, "colors":["green"]},
+            {"id":10414, "colors":["pink"]},
+            {"id":10415, "colors":["yellow"]},
+            {"id":10416, "colors":["white"]},
+            {"id":10417, "colors":["black"]},
+            {"id":10418, "colors":["red"]},
+            {"id":10419, "colors":["blue"]},
+            {"id":10420, "colors":["brown"]},
+            {"id":10421, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
+    },
+    {
+        "groupId":10422, "zone":"torso", "category":"jacket", "security":"67fe551d8b6ad121", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Kimono",
+        "outfitName":"Sleeping in Satin",
+        "variations":[
+            {"id":10422, "colors":["purple"]},
+            {"id":10423, "colors":["green"]},
+            {"id":10424, "colors":["pink"]},
+            {"id":10425, "colors":["yellow"]},
+            {"id":10426, "colors":["white"]},
+            {"id":10427, "colors":["black"]},
+            {"id":10428, "colors":["red"]},
+            {"id":10429, "colors":["blue"]},
+            {"id":10430, "colors":["brown"]},
+            {"id":10431, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
+    },
+
+    {
+        "groupId":10552, "zone":"arms", "category":"bag", "security":"54afa3542636b8b3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Quick Travel",
+        "outfitName":null,
+        "variations":[
+            {"id":10552, "colors":["green","white"]},
+            {"id":10553, "colors":["undefined"]},
+            {"id":10554, "colors":["undefined"]},
+            {"id":10555, "colors":["undefined"]},
+            {"id":10556, "colors":["undefined"]},
+            {"id":10557, "colors":["undefined"]},
+            {"id":10558, "colors":["undefined"]},
+            {"id":10559, "colors":["undefined"]},
+            {"id":10560, "colors":["undefined"]},
+            {"id":10561, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
+    },
+
+    {
+        "groupId":10647, "zone":"feet", "category":"shoes", "security":"58e0f5aa7d57b5a5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Salones",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10647, "colors":["grey","silver"]},
+            {"id":10648, "colors":["black"]},
+            {"id":10649, "colors":["blue"]},
+            {"id":10650, "colors":["pink"]},
+            {"id":10651, "colors":["green"]},
+            {"id":10652, "colors":["yellow","golden"]},
+            {"id":10653, "colors":["purple"]},
+            {"id":10654, "colors":["brown"]},
+            {"id":10655, "colors":["white"]},
+            {"id":10656, "colors":["red"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10657, "zone":"feet", "category":"legAccessory", "security":"b59dcd7ea31e7111", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Liga",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10657, "colors":["golden","black"]},
+            {"id":10658, "colors":["golden","green"]},
+            {"id":10659, "colors":["golden","red"]},
+            {"id":10660, "colors":["golden","purple"]},
+            {"id":10661, "colors":["golden","blue"]},
+            {"id":10662, "colors":["golden","white"]},
+            {"id":10663, "colors":["golden","grey"]},
+            {"id":10664, "colors":["golden","yellow"]},
+            {"id":10665, "colors":["golden","pink"]},
+            {"id":10666, "colors":["golden","brown"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10667, "zone":"torso_waistToKnee", "category":"dress", "security":"58324cf62e8681ac", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10667, "colors":["black"]},
+            {"id":10668, "colors":["green"]},
+            {"id":10669, "colors":["red"]},
+            {"id":10670, "colors":["purple"]},
+            {"id":10671, "colors":["blue"]},
+            {"id":10672, "colors":["white"]},
+            {"id":10673, "colors":["silver","grey"]},
+            {"id":10674, "colors":["yellow","golden"]},
+            {"id":10675, "colors":["pink"]},
+            {"id":10676, "colors":["brown"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10677, "zone":"arms", "category":"armAccessory", "security":"5dea220e765787a3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulsera",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10677, "colors":["silver","blue"]},
+            {"id":10678, "colors":["silver","black"]},
+            {"id":10679, "colors":["silver","white"]},
+            {"id":10680, "colors":["golden","pink"]},
+            {"id":10681, "colors":["golden","green"]},
+            {"id":10682, "colors":["orange","silver"]},
+            {"id":10683, "colors":["silver","purple"]},
+            {"id":10684, "colors":["golden","brown"]},
+            {"id":10685, "colors":["golden","grey"]},
+            {"id":10686, "colors":["golden","red"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10687, "zone":"face", "category":"neckAccessory", "security":"0143f88ac03abc17", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10687, "colors":["silver","blue"]},
+            {"id":10688, "colors":["silver","black"]},
+            {"id":10689, "colors":["silver","white"]},
+            {"id":10690, "colors":["golden","pink"]},
+            {"id":10691, "colors":["golden","green"]},
+            {"id":10692, "colors":["orange","silver"]},
+            {"id":10693, "colors":["silver","purple"]},
+            {"id":10694, "colors":["golden","brown"]},
+            {"id":10695, "colors":["golden","grey"]},
+            {"id":10696, "colors":["golden","red"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10697, "zone":"head", "category":"earring", "security":"8dfff778c56b4ba9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10697, "colors":["silver","blue"]},
+            {"id":10698, "colors":["silver","black"]},
+            {"id":10699, "colors":["silver","white"]},
+            {"id":10700, "colors":["golden","pink"]},
+            {"id":10701, "colors":["golden","green"]},
+            {"id":10702, "colors":["orange","silver"]},
+            {"id":10703, "colors":["silver","purple"]},
+            {"id":10704, "colors":["golden","brown"]},
+            {"id":10705, "colors":["golden","grey"]},
+            {"id":10706, "colors":["golden","red"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10707, "zone":"head", "category":"wig", "security":"9d4d2049370e733a", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Peluca",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10707, "colors":["brown"]},
+            {"id":10708, "colors":["white"]},
+            {"id":10709, "colors":["black"]},
+            {"id":10710, "colors":["blue"]},
+            {"id":10711, "colors":["blue"]},
+            {"id":10712, "colors":["purple"]},
+            {"id":10713, "colors":["red"]},
+            {"id":10714, "colors":["yellow"]},
+            {"id":10715, "colors":["orange"]},
+            {"id":10716, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10717, "zone":"head", "category":"hat", "security":"ff933d10ae2058fb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Broche",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10717, "colors":["silver","blue"]},
+            {"id":10718, "colors":["silver","black"]},
+            {"id":10719, "colors":["silver","white"]},
+            {"id":10720, "colors":["golden","pink"]},
+            {"id":10721, "colors":["golden","green"]},
+            {"id":10722, "colors":["orange","silver"]},
+            {"id":10723, "colors":["silver","purple"]},
+            {"id":10724, "colors":["golden","brown"]},
+            {"id":10725, "colors":["golden","grey"]},
+            {"id":10726, "colors":["golden","red"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10727, "zone":"arms", "category":"bag", "security":"72208868ddaf0357", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10727, "colors":["white","golden"]},
+            {"id":10728, "colors":["white","golden","black"]},
+            {"id":10729, "colors":["white","golden","blue"]},
+            {"id":10730, "colors":["white","golden","purple"]},
+            {"id":10731, "colors":["white","golden","green"]},
+            {"id":10732, "colors":["white","golden","yellow"]},
+            {"id":10733, "colors":["white","golden","purple"]},
+            {"id":10734, "colors":["white","silver","brown"]},
+            {"id":10735, "colors":["white","golden","silver"]},
+            {"id":10736, "colors":["white","golden","red"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10737, "zone":"torso", "category":"jacket", "security":"82bc4d6ff985d937", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Boa",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10737, "colors":["white"]},
+            {"id":10738, "colors":["black"]},
+            {"id":10739, "colors":["blue"]},
+            {"id":10740, "colors":["pink"]},
+            {"id":10741, "colors":["green"]},
+            {"id":10742, "colors":["yellow"]},
+            {"id":10743, "colors":["purple"]},
+            {"id":10744, "colors":["brown"]},
+            {"id":10745, "colors":["grey"]},
+            {"id":10746, "colors":["red"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10747, "zone":"general", "category":"other", "security":"af29910574ab0bd3", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Billetes",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10747, "colors":["green"]},
+            {"id":10748, "colors":["golden","silver","orange"]},
+            {"id":10749, "colors":["blue"]},
+            {"id":10750, "colors":["purple"]},
+            {"id":10751, "colors":["black"]},
+            {"id":10752, "colors":["white"]},
+            {"id":10753, "colors":["silver","grey"]},
+            {"id":10754, "colors":["golden","yellow"]},
+            {"id":10755, "colors":["pink"]},
+            {"id":10756, "colors":["orange"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10757, "zone":"torso", "category":"jacket", "security":"f8fce5a25c876826", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Rebeca",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id":10758, "colors":["orange","brown","yellow"]},
+            {"id":10759, "colors":["black"], "variationNumber":2},
+            {"id":10760, "colors":["blue"], "variationNumber":3},
+            {"id":10761, "colors":["pink","purple"], "variationNumber":4},
+            {"id":10762, "colors":["purple"], "variationNumber":5},
+            {"id":10763, "colors":["brown"], "variationNumber":6},
+            {"id":10764, "colors":["white","blue"], "variationNumber":7},
+            {"id":10765, "colors":["green"], "variationNumber":8},
+            {"id":10766, "colors":["red"], "variationNumber":9},
+            {"id":10757, "colors":["blue"], "variationNumber":10}
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10767, "zone":"general", "category":"other", "security":"483abddfa0bd342c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gato",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id":10768, "colors":["black","white"]},
+            {"id":10769, "colors":["orange"], "variationNumber":2},
+            {"id":10770, "colors":["white"], "variationNumber":3},
+            {"id":10771, "colors":["white","black","brown"], "variationNumber":4},
+            {"id":10772, "colors":["pink"], "variationNumber":5},
+            {"id":10773, "colors":["brown","white"], "variationNumber":6},
+            {"id":10767, "colors":["brown"], "variationNumber":7},
+            {"id":10774, "colors":["brown","black"], "variationNumber":8},
+            {"id":10775, "colors":["brown","white"], "variationNumber":9},
+            {"id":10776, "colors":["grey","white"], "variationNumber":10}
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10777, "zone":"head", "category":"wig", "security":"fde15fa5fddcdf88", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id":10777, "colors":["brown"]},
+            {"id":10778, "colors":["white"]},
+            {"id":10779, "colors":["black"]},
+            {"id":10780, "colors":["blue"]},
+            {"id":10781, "colors":["blue"]},
+            {"id":10782, "colors":["purple"]},
+            {"id":10783, "colors":["red"]},
+            {"id":10784, "colors":["yellow"]},
+            {"id":10785, "colors":["orange"]},
+            {"id":10786, "colors":["pink"]},
+            {"id":10787, "colors":["brown"]},
+            {"id":10788, "colors":["white"]},
+            {"id":10789, "colors":["black"]},
+            {"id":10790, "colors":["blue"]},
+            {"id":10791, "colors":["blue"]},
+            {"id":10792, "colors":["purple"]},
+            {"id":10793, "colors":["red"]},
+            {"id":10794, "colors":["yellow"]},
+            {"id":10795, "colors":["orange"]},
+            {"id":10796, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10797, "zone":"feet", "category":"socks", "security":"42e126b06d471222", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Calcetines",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id":10797, "colors":["orange"]},
+            {"id":10798, "colors":["black"]},
+            {"id":10799, "colors":["blue"]},
+            {"id":10800, "colors":["pink"]},
+            {"id":10801, "colors":["purple"]},
+            {"id":10802, "colors":["brown"]},
+            {"id":10803, "colors":["blue","white"]},
+            {"id":10804, "colors":["green"]},
+            {"id":10805, "colors":["red"]},
+            {"id":10806, "colors":["blue"]}
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10807, "zone":"feet", "category":"shoes", "security":"7fef5992dbffe7b8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id":10807, "colors":["pink"]},
+            {"id":10808, "colors":["red"]},
+            {"id":10809, "colors":["blue"]},
+            {"id":10810, "colors":["purple"]},
+            {"id":10811, "colors":["white"]},
+            {"id":10812, "colors":["green"]},
+            {"id":10813, "colors":["yellow"]},
+            {"id":10814, "colors":["brown"]},
+            {"id":10815, "colors":["grey"]},
+            {"id":10816, "colors":["black"]}
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10817, "zone":"torso", "category":"top", "security":"f53795ba4b92493e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id":10817, "colors":["white"]},
+            {"id":10818, "colors":["black"]},
+            {"id":10819, "colors":["purple"]},
+            {"id":10820, "colors":["blue"]},
+            {"id":10821, "colors":["pink"]},
+            {"id":10822, "colors":["orange"]},
+            {"id":10823, "colors":["green"]},
+            {"id":10824, "colors":["yellow"]},
+            {"id":10825, "colors":["red"]},
+            {"id":10826, "colors":["blue","green"]}
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10827, "zone":"torso_waistToKnee", "category":"dress", "security":"9c59b359b3e5fa1b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peto",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id":10827, "colors":["pink"]},
+            {"id":10828, "colors":["red"]},
+            {"id":10829, "colors":["blue"]},
+            {"id":10830, "colors":["purple"]},
+            {"id":10831, "colors":["white"]},
+            {"id":10832, "colors":["green"]},
+            {"id":10833, "colors":["yellow"]},
+            {"id":10834, "colors":["orange"]},
+            {"id":10835, "colors":["grey"]},
+            {"id":10836, "colors":["black"]}
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10837, "zone":"general", "category":"other", "security":"8a20b54235c6dd8e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Perro",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id":10838, "colors":["black","brown","white"]},
+            {"id":10839, "colors":["white"], "variationNumber":2},
+            {"id":10837, "colors":["white","brown"], "variationNumber":3},
+            {"id":10840, "colors":["brown"], "variationNumber":4},
+            {"id":10841, "colors":["white","grey"], "variationNumber":5},
+            {"id":10842, "colors":["white","brown"], "variationNumber":6},
+            {"id":10843, "colors":["brown"], "variationNumber":7},
+            {"id":10844, "colors":["black"], "variationNumber":8},
+            {"id":10845, "colors":["black","brown"], "variationNumber":9},
+            {"id":10846, "colors":["black","brown"], "variationNumber":10}
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10847, "zone":"general", "category":"other", "security":"41132e0126208aef", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pájaro",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id":10848, "colors":["yellow"]},
+            {"id":10849, "colors":["brown"], "variationNumber":2},
+            {"id":10850, "colors":["yellow"], "variationNumber":3},
+            {"id":10851, "colors":["green"], "variationNumber":4},
+            {"id":10847, "colors":["blue"], "variationNumber":5},
+            {"id":10852, "colors":["yellow","white"], "variationNumber":6},
+            {"id":10853, "colors":["pink"], "variationNumber":7},
+            {"id":10854, "colors":["white"], "variationNumber":8},
+            {"id":10855, "colors":["grey"], "variationNumber":9},
+            {"id":10856, "colors":["black"], "variationNumber":10}
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10857, "zone":"general", "category":"other", "security":"a7a7c93e4cf14f0e", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Hurón",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id":10857, "colors":["brown","white"]},
+            {"id":10858, "colors":["white"], "variationNumber":2},
+            {"id":10866, "colors":["black"], "variationNumber":3},
+            {"id":10859, "colors":["brown"], "variationNumber":4},
+            {"id":10860, "colors":["brown"], "variationNumber":5},
+            {"id":10861, "colors":["white","grey"], "variationNumber":6},
+            {"id":10862, "colors":["white","brown"], "variationNumber":7},
+            {"id":10863, "colors":["brown"], "variationNumber":8},
+            {"id":10864, "colors":["black"], "variationNumber":9},
+            {"id":10865, "colors":["brown"], "variationNumber":10}
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "releaseDate":"2025-09-03"
+    },
+  {
+        "groupId":1790, "zone":"head", "category":"hat", "security":"590f1f1662a433ff", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Crown",
+        "outfitName":"Flowerly",
+        "variations":[
+            {"id":1790, "colors":["yellow"]},
+            {"id":1791, "colors":["pink"]},
+            {"id":1792, "colors":["purple"]},
+            {"id":1793, "colors":["blue"]},
+            {"id":1794, "colors":["white"]},
+            {"id":1795, "colors":["black"]},
+            {"id":1796, "colors":["grey"]},
+            {"id":1797, "colors":["green"]},
+            {"id":1798, "colors":["brown"]},
+            {"id":1799, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2025-09-26"
+    },
+  {
+        "groupId":1277, "zone":"head", "category":"wig", "security":"2f016728ab4a0a22", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Hololove",
+        "variations":[
+            {"id":1277, "colors":["pink"]},
+            {"id":1278, "colors":["white"]},
+            {"id":1279, "colors":["black"]},
+            {"id":1280, "colors":["blue"]},
+            {"id":1281, "colors":["blue"]},
+            {"id":1282, "colors":["purple"]},
+            {"id":1283, "colors":["red"]},
+            {"id":1284, "colors":["yellow"]},
+            {"id":1285, "colors":["orange"]},
+            {"id":1286, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-09-26"
+    },
+  {
+        "groupId":10542, "zone":"face", "category":"faceAccessory", "security":"aaab3fc70a2c2bb8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Glasses",
+        "outfitName":"Porcelain of provence",
+        "variations":[
+            {"id":10542, "colors":["black"]},
+            {"id":10543, "colors":["white"]},
+            {"id":10544, "colors":["brown"]},
+            {"id":10545, "colors":["orange"]},
+            {"id":10546, "colors":["yellow"]},
+            {"id":10547, "colors":["green"]},
+            {"id":10548, "colors":["blue"]},
+            {"id":10549, "colors":["purple"]},
+            {"id":10550, "colors":["red"]},
+            {"id":10551, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+      {
+        "groupId":10532, "zone":"face", "category":"earring", "security":"fc49a16c24d93063", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Porcelain of provence",
+        "variations":[
+            {"id":10532, "colors":["yellow"]},
+            {"id":10533, "colors":["black"]},
+            {"id":10534, "colors":["brown"]},
+            {"id":10535, "colors":["orange"]},
+            {"id":10536, "colors":["yellow"]},
+            {"id":10537, "colors":["green"]},
+            {"id":10538, "colors":["blue"]},
+            {"id":10539, "colors":["purple"]},
+            {"id":10540, "colors":["red"]},
+            {"id":10541, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":10482, "zone":"face", "category":"earring", "security":"2faadf7b1974f9c7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Faience of Mustiers",
+        "variations":[
+            {"id":10482, "colors":["yellow"]},
+            {"id":10483, "colors":["black"]},
+            {"id":10484, "colors":["brown"]},
+            {"id":10485, "colors":["orange"]},
+            {"id":10486, "colors":["white"]},
+            {"id":10487, "colors":["blue"]},
+            {"id":10488, "colors":["red"]},
+            {"id":10489, "colors":["green"]},
+            {"id":10490, "colors":["purple"]},
+            {"id":10491, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+      {
+        "groupId":10522, "zone":"torso", "category":"top", "security":"945ce60afc00bc6c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Blouse",
+        "outfitName":"Porcelain of provence",
+        "variations":[
+            {"id":10522, "colors":["white"]},
+            {"id":10523, "colors":["black"]},
+            {"id":10524, "colors":["brown"]},
+            {"id":10525, "colors":["orange"]},
+            {"id":10526, "colors":["yellow"]},
+            {"id":10527, "colors":["green"]},
+            {"id":10528, "colors":["blue"]},
+            {"id":10529, "colors":["purple"]},
+            {"id":10530, "colors":["red"]},
+            {"id":10531, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+      {
+        "groupId":10462, "zone":"torso", "category":"top", "security":"b96e6655c49a740a", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Faience of Mustiers",
+        "variations":[
+            {"id":10462, "colors":["white"]},
+            {"id":10463, "colors":["black"]},
+            {"id":10464, "colors":["brown"]},
+            {"id":10465, "colors":["orange"]},
+            {"id":10466, "colors":["yellow"]},
+            {"id":10467, "colors":["blue"]},
+            {"id":10468, "colors":["red"]},
+            {"id":10469, "colors":["green"]},
+            {"id":10470, "colors":["purple"]},
+            {"id":10471, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+      {
+        "groupId":2693, "zone":"torso", "category":"top", "security":"93db83571c31d42f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bodice",
+        "outfitName":"Neo-victorian",
+        "variations":[
+            {"id":2693, "colors":["brown"]},
+            {"id":2694, "colors":["grey"]},
+            {"id":2695, "colors":["pink"]},
+            {"id":2696, "colors":["black"]},
+            {"id":2697, "colors":["brown"]},
+            {"id":2698, "colors":["red"]},
+            {"id":2699, "colors":["purple"]},
+            {"id":2700, "colors":["green"]},
+            {"id":2701, "colors":["white"]},
+            {"id":2702, "colors":["blue"]}
+        ], "criteria":null,
+        "releaseDate":"2025-09-26"
+    },
+      {
+        "groupId":1499, "zone":"torso", "category":"top", "security":"9d08bd488b9d1251", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"What the...?",
+        "variations":[
+            {"id":1499, "colors":["brown"]},
+            {"id":1500, "colors":["grey"]},
+            {"id":1501, "colors":["pink"]},
+            {"id":1502, "colors":["black"]},
+            {"id":1503, "colors":["brown"]},
+            {"id":1504, "colors":["red"]},
+            {"id":1505, "colors":["purple"]},
+            {"id":1506, "colors":["green"]},
+            {"id":1507, "colors":["white"]},
+            {"id":1508, "colors":["blue"]}
+        ], "criteria":null,
+        "releaseDate":"2025-09-26"
+    },
+        {
+        "groupId":1920, "zone":"torso", "category":"jacket", "security":"f97d6b35857e0a95", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jacket",
+        "outfitName":"Kitty girl",
+        "variations":[
+            {"id":1920, "colors":["pink"]},
+            {"id":1921, "colors":["orange"]},
+            {"id":1922, "colors":["yellow"]},
+            {"id":1923, "colors":["blue"]},
+            {"id":1924, "colors":["purple"]},
+            {"id":1925, "colors":["green"]},
+            {"id":1926, "colors":["red"]},
+            {"id":1927, "colors":["black"]},
+            {"id":1928, "colors":["white"]},
+            {"id":1929, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":1639, "zone":"torso_waistToKnee", "category":"underwear", "security":"7a9f111f06d56936", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body blouse",
+        "outfitName":"Future enhancement",
+        "variations":[
+            {"id":1639, "colors":["black"]},
+            {"id":1640, "colors":["green"]},
+            {"id":1641, "colors":["purple"]},
+            {"id":1642, "colors":["pink"]},
+            {"id":1643, "colors":["brown"]},
+            {"id":1644, "colors":["grey"]},
+            {"id":1645, "colors":["orange"]},
+            {"id":1646, "colors":["green"]},
+            {"id":1647, "colors":["green"]},
+            {"id":1648, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-09-26"
+    },
+      {
+        "groupId":10502, "zone":"arms", "category":"bag", "security":"84cb021b7357400a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Purse",
+        "outfitName":"Porcelain of provence",
+        "variations":[
+            {"id":10502, "colors":["white"]},
+            {"id":10503, "colors":["black"]},
+            {"id":10504, "colors":["brown"]},
+            {"id":10505, "colors":["orange"]},
+            {"id":10506, "colors":["yellow"]},
+            {"id":10507, "colors":["green"]},
+            {"id":10508, "colors":["blue"]},
+            {"id":10509, "colors":["purple"]},
+            {"id":10510, "colors":["red"]},
+            {"id":10511, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+      {
+        "groupId":10472, "zone":"arms", "category":"bag", "security":"71f9065d8b4dd920", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Purse",
+        "outfitName":"Faience of Mustiers",
+        "variations":[
+            {"id":10472, "colors":["white"]},
+            {"id":10473, "colors":["black"]},
+            {"id":10474, "colors":["brown"]},
+            {"id":10475, "colors":["orange"]},
+            {"id":10476, "colors":["yellow"]},
+            {"id":10477, "colors":["blue"]},
+            {"id":10478, "colors":["red"]},
+            {"id":10479, "colors":["green"]},
+            {"id":10480, "colors":["purple"]},
+            {"id":10481, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+       {
+        "groupId":10442, "zone":"arms", "category":"armAccessory", "security":"dbff2a4d659447ed", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bracelet",
+        "outfitName":"Faience of Mustiers",
+        "variations":[
+            {"id":10442, "colors":["yellow"]},
+            {"id":10443, "colors":["black"]},
+            {"id":10444, "colors":["brown"]},
+            {"id":10445, "colors":["orange"]},
+            {"id":10446, "colors":["white"]},
+            {"id":10447, "colors":["blue"]},
+            {"id":10448, "colors":["red"]},
+            {"id":10449, "colors":["green"]},
+            {"id":10450, "colors":["purple"]},
+            {"id":10451, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+      {
+        "groupId":10512, "zone":"waistToKnee", "category":"pants", "security":"cf4c18617980cc42", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pants",
+        "outfitName":"Porcelain of provence",
+        "variations":[
+            {"id":10512, "colors":["white"]},
+            {"id":10513, "colors":["black"]},
+            {"id":10514, "colors":["brown"]},
+            {"id":10515, "colors":["orange"]},
+            {"id":10516, "colors":["yellow"]},
+            {"id":10517, "colors":["green"]},
+            {"id":10518, "colors":["blue"]},
+            {"id":10519, "colors":["purple"]},
+            {"id":10520, "colors":["red"]},
+            {"id":10521, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+      {
+        "groupId":10452, "zone":"waistToKnee", "category":"skirt", "security":"def4ae4d000fe5e4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Faience of Mustiers",
+        "variations":[
+            {"id":10452, "colors":["blue"]},
+            {"id":10453, "colors":["black"]},
+            {"id":10454, "colors":["brown"]},
+            {"id":10455, "colors":["orange"]},
+            {"id":10456, "colors":["yellow"]},
+            {"id":10457, "colors":["blue"]},
+            {"id":10458, "colors":["red"]},
+            {"id":10459, "colors":["green"]},
+            {"id":10460, "colors":["purple"]},
+            {"id":10461, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+      {
+        "groupId":10492, "zone":"feet", "category":"shoes", "security":"9043f9a7046519e2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandals",
+        "outfitName":"Porcelain of provence",
+        "variations":[
+            {"id":10492, "colors":["white"]},
+            {"id":10493, "colors":["black"]},
+            {"id":10494, "colors":["brown"]},
+            {"id":10495, "colors":["orange"]},
+            {"id":10496, "colors":["yellow"]},
+            {"id":10497, "colors":["green"]},
+            {"id":10498, "colors":["blue"]},
+            {"id":10499, "colors":["purple"]},
+            {"id":10500, "colors":["red"]},
+            {"id":10501, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+      {
+        "groupId":10432, "zone":"feet", "category":"shoes", "security":"b2113be159206405", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Espadrilles",
+        "outfitName":"Faience of Mustiers",
+        "variations":[
+            {"id":10432, "colors":["brown"]},
+            {"id":10433, "colors":["black"]},
+            {"id":10434, "colors":["white"]},
+            {"id":10435, "colors":["orange"]},
+            {"id":10436, "colors":["yellow"]},
+            {"id":10437, "colors":["blue"]},
+            {"id":10438, "colors":["red"]},
+            {"id":10439, "colors":["green"]},
+            {"id":10440, "colors":["purple"]},
+            {"id":10441, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":1599, "zone":"feet", "category":"shoes", "security":"18b924ea3ab283ec", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Magical heart",
+        "variations":[
+            {"id":1599, "colors":["pink"]},
+            {"id":1600, "colors":["purple"]},
+            {"id":1601, "colors":["blue"]},
+            {"id":1602, "colors":["white"]},
+            {"id":1603, "colors":["yellow"]},
+            {"id":1604, "colors":["white"]},
+            {"id":1605, "colors":["black"]},
+            {"id":1606, "colors":["purple"]},
+            {"id":1607, "colors":["grey"]},
+            {"id":1608, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-09-26"
+    },
+        {
+        "groupId":11047, "zone":"head", "category":"hat", "security":"4468d7607d36aca1", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Hood",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":11047, "colors":["black"]},
+            {"id":11048, "colors":["white"]},
+            {"id":11049, "colors":["green"]},
+            {"id":11050, "colors":["brown"]},
+            {"id":11051, "colors":["red"]},
+            {"id":11052, "colors":["orange"]},
+            {"id":11053, "colors":["purple"]},
+            {"id":11054, "colors":["blue"]},
+            {"id":11055, "colors":["grey"]},
+            {"id":11056, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-21"
+    },
+        {
+        "groupId":11027, "zone":"torso", "category":"top", "security":"5ad50eaef7b6fca5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":11027, "colors":["black"]},
+            {"id":11028, "colors":["white"]},
+            {"id":11029, "colors":["green"]},
+            {"id":11030, "colors":["brown"]},
+            {"id":11031, "colors":["red"]},
+            {"id":11032, "colors":["orange"]},
+            {"id":11033, "colors":["purple"]},
+            {"id":11034, "colors":["blue"]},
+            {"id":11035, "colors":["grey"]},
+            {"id":11036, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-21"
+    },
+        {
+        "groupId":11037, "zone":"torso", "category":"jacket", "security":"621324d00ce10627", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Cape",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":11037, "colors":["black"]},
+            {"id":11038, "colors":["white"]},
+            {"id":11039, "colors":["green"]},
+            {"id":11040, "colors":["brown"]},
+            {"id":11041, "colors":["red"]},
+            {"id":11042, "colors":["orange"]},
+            {"id":11043, "colors":["purple"]},
+            {"id":11044, "colors":["blue"]},
+            {"id":11045, "colors":["grey"]},
+            {"id":11046, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-21"
+    },
+        {
+        "groupId":10987, "zone":"arms", "category":"gloves", "security":"bb278389920de1b9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gloves",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":10987, "colors":["white"]},
+            {"id":10988, "colors":["brown"]},
+            {"id":10989, "colors":["grey"]},
+            {"id":10990, "colors":["orange"]},
+            {"id":10991, "colors":["green"]},
+            {"id":10992, "colors":["black"]},
+            {"id":10993, "colors":["blue"]},
+            {"id":10994, "colors":["pink"]},
+            {"id":10995, "colors":["red"]},
+            {"id":10996, "colors":["purple"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-21"
+    },
+        {
+        "groupId":10997, "zone":"arms", "category":"bag", "security":"1ee9f7791e65ddef", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Scythe",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":10997, "colors":["black"]},
+            {"id":10998, "colors":["white"]},
+            {"id":10999, "colors":["green"]},
+            {"id":11000, "colors":["brown"]},
+            {"id":11001, "colors":["red"]},
+            {"id":11002, "colors":["orange"]},
+            {"id":11003, "colors":["purple"]},
+            {"id":11004, "colors":["blue"]},
+            {"id":11005, "colors":["grey"]},
+            {"id":11006, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-21"
+    },
+        {
+        "groupId":11007, "zone":"waistToKnee", "category":"pants", "security":"f225ce75b0a20bcb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pants",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":11007, "colors":["black"]},
+            {"id":11008, "colors":["white"]},
+            {"id":11009, "colors":["green"]},
+            {"id":11010, "colors":["brown"]},
+            {"id":11011, "colors":["red"]},
+            {"id":11012, "colors":["orange"]},
+            {"id":11013, "colors":["purple"]},
+            {"id":11014, "colors":["blue"]},
+            {"id":11015, "colors":["grey"]},
+            {"id":11016, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-21"
+    },
+        {
+        "groupId":11017, "zone":"feet", "category":"shoes", "security":"5d12f4b2742be538", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":11017, "colors":["black"]},
+            {"id":11018, "colors":["white"]},
+            {"id":11019, "colors":["green"]},
+            {"id":11020, "colors":["brown"]},
+            {"id":11021, "colors":["red"]},
+            {"id":11022, "colors":["orange"]},
+            {"id":11023, "colors":["purple"]},
+            {"id":11024, "colors":["blue"]},
+            {"id":11025, "colors":["grey"]},
+            {"id":11026, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-21"
+    },
+    {
+        "groupId":11057, "zone":"general", "category":"other", "security":"51ff6e152b1573d9", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Raven",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":11057, "colors":["black"]},
+            {"id":11058, "colors":["white"]},
+            {"id":11059, "colors":["green"]},
+            {"id":11060, "colors":["brown"]},
+            {"id":11061, "colors":["red"]},
+            {"id":11062, "colors":["orange"]},
+            {"id":11063, "colors":["purple"]},
+            {"id":11064, "colors":["blue"]},
+            {"id":11065, "colors":["grey"]},
+            {"id":11066, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-21"
+    },
+    {
+        "groupId":10199, "zone":"face", "category":"faceAccessory", "security":"e0957f18245149d5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Scarf",
+        "outfitName":"Desert-Bound",
+        "variations":[
+            {"id":10199, "colors":["green"]},
+            {"id":10200, "colors":["blue"]},
+            {"id":10201, "colors":["pink"]},
+            {"id":10202, "colors":["black"]},
+            {"id":10203, "colors":["white"]},
+            {"id":10204, "colors":["brown"]},
+            {"id":10205, "colors":["purple"]},
+            {"id":10206, "colors":["yellow"]},
+            {"id":10207, "colors":["green"]},
+            {"id":10208, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-09"
+    },
+     {
+        "groupId":10189, "zone":"torso_waistToKnee", "category":"dress", "security":"fff4151858dc3bc2", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Dress",
+        "outfitName":"Desert-Bound",
+        "variations":[
+            {"id":10189, "colors":["green"]},
+            {"id":10190, "colors":["blue"]},
+            {"id":10191, "colors":["pink"]},
+            {"id":10192, "colors":["black"]},
+            {"id":10193, "colors":["white"]},
+            {"id":10194, "colors":["brown"]},
+            {"id":10195, "colors":["purple"]},
+            {"id":10196, "colors":["yellow"]},
+            {"id":10197, "colors":["green"]},
+            {"id":10198, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-09"
+    },
+     {
+        "groupId":10209, "zone":"torso", "category":"jacket", "security":"d509102542f5c360", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Cape",
+        "outfitName":"Desert-Bound",
+        "variations":[
+            {"id":10209, "colors":["green"]},
+            {"id":10210, "colors":["blue"]},
+            {"id":10211, "colors":["pink"]},
+            {"id":10212, "colors":["black"]},
+            {"id":10213, "colors":["white"]},
+            {"id":10214, "colors":["brown"]},
+            {"id":10215, "colors":["purple"]},
+            {"id":10216, "colors":["yellow"]},
+            {"id":10217, "colors":["green"]},
+            {"id":10218, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-09"
+    },
+      {
+        "groupId":10179, "zone":"feet", "category":"shoes", "security":"ca39e965860745c0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Desert-Bound",
+        "variations":[
+            {"id":10179, "colors":["green"]},
+            {"id":10180, "colors":["blue"]},
+            {"id":10181, "colors":["pink"]},
+            {"id":10182, "colors":["black"]},
+            {"id":10183, "colors":["white"]},
+            {"id":10184, "colors":["brown"]},
+            {"id":10185, "colors":["purple"]},
+            {"id":10186, "colors":["yellow"]},
+            {"id":10187, "colors":["green"]},
+            {"id":10188, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-09"
+    },
+      {
+        "groupId":10159, "zone":"general", "category":"tattoo", "security":"be0df2f89c2ee64c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tattoo",
+        "outfitName":"Desert-Bound",
+        "variations":[
+            {"id":10159, "colors":["green"]},
+            {"id":10160, "colors":["blue"]},
+            {"id":10161, "colors":["pink"]},
+            {"id":10162, "colors":["black"]},
+            {"id":10163, "colors":["white"]},
+            {"id":10164, "colors":["brown"]},
+            {"id":10165, "colors":["purple"]},
+            {"id":10166, "colors":["yellow"]},
+            {"id":10167, "colors":["green"]},
+            {"id":10168, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-09"
+    },
+      {
+        "groupId":10169, "zone":"general", "category":"other", "security":"e4233df258ed1a9b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Creature",
+        "outfitName":"Desert-Bound",
+        "variations":[
+            {"id":10169, "colors":["green"]},
+            {"id":10170, "colors":["blue"]},
+            {"id":10171, "colors":["pink"]},
+            {"id":10172, "colors":["black"]},
+            {"id":10173, "colors":["white"]},
+            {"id":10174, "colors":["brown"]},
+            {"id":10175, "colors":["purple"]},
+            {"id":10176, "colors":["yellow"]},
+            {"id":10177, "colors":["green"]},
+            {"id":10178, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-09"
+    },
+       {
+        "groupId":11297, "zone":"head", "category":"hat", "security":"ec3ba1505f283d3c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tiara",
+        "outfitName":"Maiden of Steel an Silk",
+        "variations":[
+            {"id":11297, "colors":["blue"]},
+            {"id":11298, "colors":["red"]},
+            {"id":11299, "colors":["purple"]},
+            {"id":11300, "colors":["yellow"]},
+            {"id":11301, "colors":["black"]},
+            {"id":11302, "colors":["green"]},
+            {"id":11303, "colors":["orange"]},
+            {"id":11304, "colors":["yellow"]},
+            {"id":11305, "colors":["pink"]},
+            {"id":11306, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+       {
+        "groupId":11287, "zone":"head", "category":"wig", "security":"886dfaa2faa69cbd", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Maiden of Steel an Silk",
+        "variations":[
+            {"id":11287, "colors":["brown"]},
+            {"id":11288, "colors":["white"]},
+            {"id":11289, "colors":["black"]},
+            {"id":11290, "colors":["blue"]},
+            {"id":11291, "colors":["green"]},
+            {"id":11292, "colors":["purple"]},
+            {"id":11293, "colors":["red"]},
+            {"id":11294, "colors":["yellow"]},
+            {"id":11295, "colors":["orange"]},
+            {"id":11296, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+       {
+        "groupId":11247, "zone":"torso_waistToKnee", "category":"dress", "security":"e90102c9d171eaca", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Dress",
+        "outfitName":"Maiden of Steel an Silk",
+        "variations":[
+            {"id":11247, "colors":["brown"]},
+            {"id":11248, "colors":["blue"]},
+            {"id":11249, "colors":["purple"]},
+            {"id":11250, "colors":["yellow"]},
+            {"id":11251, "colors":["white"]},
+            {"id":11252, "colors":["black"]},
+            {"id":11253, "colors":["green"]},
+            {"id":11254, "colors":["grey"]},
+            {"id":11255, "colors":["purple"]},
+            {"id":11256, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+        {
+        "groupId":11257, "zone":"torso_waistToKnee", "category":"dress", "security":"34b74c5ef1f66fa0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Dress",
+        "outfitName":"Maiden of Steel an Silk",
+        "variations":[
+            {"id":11257, "colors":["red"]},
+            {"id":11258, "colors":["blue"]},
+            {"id":11259, "colors":["purple"]},
+            {"id":11260, "colors":["yellow"]},
+            {"id":11261, "colors":["white"]},
+            {"id":11262, "colors":["black"]},
+            {"id":11263, "colors":["green"]},
+            {"id":11264, "colors":["brown"]},
+            {"id":11265, "colors":["pink"]},
+            {"id":11266, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+        {
+        "groupId":11267, "zone":"torso", "category":"jacket", "security":"480e8b4ce2e7d8c3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Armor",
+        "outfitName":"Maiden of Steel an Silk",
+        "variations":[
+            {"id":11267, "colors":["grey"]},
+            {"id":11268, "colors":["red"]},
+            {"id":11269, "colors":["orange"]},
+            {"id":11270, "colors":["brown"]},
+            {"id":11271, "colors":["white"]},
+            {"id":11272, "colors":["black"]},
+            {"id":11273, "colors":["green"]},
+            {"id":11274, "colors":["yellow"]},
+            {"id":11275, "colors":["purple"]},
+            {"id":11276, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+        {
+        "groupId":11307, "zone":"arms", "category":"bag", "security":"bf12fb5591fa027b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lance",
+        "outfitName":"Maiden of Steel an Silk",
+        "variations":[
+            {"id":11307, "colors":["grey"]},
+            {"id":11308, "colors":["red"]},
+            {"id":11309, "colors":["orange"]},
+            {"id":11310, "colors":["brown"]},
+            {"id":11311, "colors":["white"]},
+            {"id":11312, "colors":["black"]},
+            {"id":11313, "colors":["green"]},
+            {"id":11314, "colors":["yellow"]},
+            {"id":11315, "colors":["purple"]},
+            {"id":11316, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+        {
+        "groupId":11277, "zone":"arms", "category":"armAccessory", "security":"fea51ba7025dba63", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Shoulder pads",
+        "outfitName":"Maiden of Steel an Silk",
+        "variations":[
+            {"id":11277, "colors":["grey"]},
+            {"id":11278, "colors":["red"]},
+            {"id":11279, "colors":["orange"]},
+            {"id":11280, "colors":["brown"]},
+            {"id":11281, "colors":["white"]},
+            {"id":11282, "colors":["black"]},
+            {"id":11283, "colors":["green"]},
+            {"id":11284, "colors":["yellow"]},
+            {"id":11285, "colors":["purple"]},
+            {"id":11286, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+        {
+        "groupId":11237, "zone":"feet", "category":"shoes", "security":"d4a5645aa106eabd", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Maiden of Steel an Silk",
+        "variations":[
+            {"id":11237, "colors":["red"]},
+            {"id":11238, "colors":["blue"]},
+            {"id":11239, "colors":["purple"]},
+            {"id":11240, "colors":["yellow"]},
+            {"id":11241, "colors":["white"]},
+            {"id":11242, "colors":["black"]},
+            {"id":11243, "colors":["green"]},
+            {"id":11244, "colors":["brown"]},
+            {"id":11245, "colors":["pink"]},
+            {"id":11246, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+        {
+        "groupId":11217, "zone":"head", "category":"hat", "security":"d82a3d9fcab00808", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Scarf",
+        "outfitName":"Oracle's Whisper",
+        "variations":[
+            {"id":11217, "colors":["green"]},
+            {"id":11218, "colors":["red"]},
+            {"id":11219, "colors":["white"]},
+            {"id":11220, "colors":["black"]},
+            {"id":11221, "colors":["green"]},
+            {"id":11222, "colors":["blue"]},
+            {"id":11223, "colors":["purple"]},
+            {"id":11224, "colors":["yellow"]},
+            {"id":11225, "colors":["brown"]},
+            {"id":11226, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+        {
+        "groupId":11197, "zone":"head", "category":"wig", "security":"d91cb3a73551ecad", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Wig",
+        "outfitName":"Oracle's Whisper",
+        "variations":[
+            {"id":11197, "colors":["brown"]},
+            {"id":11198, "colors":["white"]},
+            {"id":11199, "colors":["black"]},
+            {"id":11200, "colors":["blue"]},
+            {"id":11201, "colors":["green"]},
+            {"id":11202, "colors":["purple"]},
+            {"id":11203, "colors":["red"]},
+            {"id":11204, "colors":["yellow"]},
+            {"id":11205, "colors":["orange"]},
+            {"id":11206, "colors":["pink"]},
+            {"id":11207, "colors":["brown"]},
+            {"id":11208, "colors":["white"]},
+            {"id":11209, "colors":["black"]},
+            {"id":11210, "colors":["blue"]},
+            {"id":11211, "colors":["green"]},
+            {"id":11212, "colors":["purple"]},
+            {"id":11213, "colors":["red"]},
+            {"id":11214, "colors":["yellow"]},
+            {"id":11215, "colors":["orange"]},
+            {"id":11216, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11187, "zone":"head", "category":"earring", "security":"3bb6d97115c30908", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Earrings",
+        "outfitName":"Oracle's Whisper",
+        "variations":[
+            {"id":11187, "colors":["pink"]},
+            {"id":11188, "colors":["black"]},
+            {"id":11189, "colors":["white"]},
+            {"id":11190, "colors":["red"]},
+            {"id":11191, "colors":["green"]},
+            {"id":11192, "colors":["blue"]},
+            {"id":11193, "colors":["purple"]},
+            {"id":11194, "colors":["yellow"]},
+            {"id":11195, "colors":["brown"]},
+            {"id":11196, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+     {
+        "groupId":11167, "zone":"torso", "category":"top", "security":"da8ee6c5b9a5d08a", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Shirt",
+        "outfitName":"Oracle's Whisper",
+        "variations":[
+            {"id":11167, "colors":["brown"]},
+            {"id":11168, "colors":["black"]},
+            {"id":11169, "colors":["white"]},
+            {"id":11170, "colors":["red"]},
+            {"id":11171, "colors":["green"]},
+            {"id":11172, "colors":["blue"]},
+            {"id":11173, "colors":["purple"]},
+            {"id":11174, "colors":["yellow"]},
+            {"id":11175, "colors":["brown"]},
+            {"id":11176, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+     {
+        "groupId":11177, "zone":"waistToKnee", "category":"skirt", "security":"478f6bea4f097b0a", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Oracle's Whisper",
+        "variations":[
+            {"id":11177, "colors":["brown"]},
+            {"id":11178, "colors":["black"]},
+            {"id":11179, "colors":["white"]},
+            {"id":11180, "colors":["red"]},
+            {"id":11181, "colors":["green"]},
+            {"id":11182, "colors":["blue"]},
+            {"id":11183, "colors":["purple"]},
+            {"id":11184, "colors":["yellow"]},
+            {"id":11185, "colors":["brown"]},
+            {"id":11186, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+     {
+        "groupId":11227, "zone":"general", "category":"other", "security":"c7440e6bdc71359f", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Cards",
+        "outfitName":"Oracle's Whisper",
+        "variations":[
+            {"id":11227, "colors":["purple"]},
+            {"id":11228, "colors":["red"]},
+            {"id":11229, "colors":["purple"]},
+            {"id":11230, "colors":["black"]},
+            {"id":11231, "colors":["green"]},
+            {"id":11232, "colors":["blue"]},
+            {"id":11233, "colors":["pink"]},
+            {"id":11234, "colors":["yellow"]},
+            {"id":11235, "colors":["brown"]},
+            {"id":11236, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+        {
+        "groupId":11147, "zone":"head", "category":"hat", "security":"cc5f1bb06e6b1201", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Veil",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11147, "colors":["brown"]},
+            {"id":11148, "colors":["green"]},
+            {"id":11149, "colors":["blue"]},
+            {"id":11150, "colors":["white"]},
+            {"id":11151, "colors":["black"]},
+            {"id":11152, "colors":["red"]},
+            {"id":11153, "colors":["pink"]},
+            {"id":11154, "colors":["orange"]},
+            {"id":11155, "colors":["purple"]},
+            {"id":11156, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+        {
+        "groupId":11137, "zone":"head", "category":"wig", "security":"b26631b946a10366", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11137, "colors":["brown"]},
+            {"id":11138, "colors":["white"]},
+            {"id":11139, "colors":["black"]},
+            {"id":11140, "colors":["blue"]},
+            {"id":11141, "colors":["green"]},
+            {"id":11142, "colors":["purple"]},
+            {"id":11143, "colors":["red"]},
+            {"id":11144, "colors":["yellow"]},
+            {"id":11145, "colors":["orange"]},
+            {"id":11146, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+        {
+        "groupId":11127, "zone":"face", "category":"neckAccessory", "security":"4cb2cd329121cda2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11127, "colors":["brown"]},
+            {"id":11128, "colors":["green"]},
+            {"id":11129, "colors":["blue"]},
+            {"id":11130, "colors":["white"]},
+            {"id":11131, "colors":["black"]},
+            {"id":11132, "colors":["red"]},
+            {"id":11133, "colors":["pink"]},
+            {"id":11134, "colors":["orange"]},
+            {"id":11135, "colors":["purple"]},
+            {"id":11136, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11107, "zone":"torso", "category":"top", "security":"12249629a8dec8ed", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11107, "colors":["brown"]},
+            {"id":11108, "colors":["green"]},
+            {"id":11109, "colors":["blue"]},
+            {"id":11110, "colors":["white"]},
+            {"id":11111, "colors":["black"]},
+            {"id":11112, "colors":["red"]},
+            {"id":11113, "colors":["pink"]},
+            {"id":11114, "colors":["orange"]},
+            {"id":11115, "colors":["purple"]},
+            {"id":11116, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11117, "zone":"waistToKnee", "category":"skirt", "security":"83cd00c986606da1", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11117, "colors":["brown"]},
+            {"id":11118, "colors":["green"]},
+            {"id":11119, "colors":["blue"]},
+            {"id":11120, "colors":["white"]},
+            {"id":11121, "colors":["black"]},
+            {"id":11122, "colors":["red"]},
+            {"id":11123, "colors":["pink"]},
+            {"id":11124, "colors":["orange"]},
+            {"id":11125, "colors":["purple"]},
+            {"id":11126, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11067, "zone":"general", "category":"skin", "security":"204b24e896b59fd2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skin",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11067, "colors":["blue"]},
+            {"id":11068, "colors":["pink"]},
+            {"id":11069, "colors":["red"]},
+            {"id":11070, "colors":["yellow"]},
+            {"id":11071, "colors":["white"]},
+            {"id":11072, "colors":["orange"]},
+            {"id":11073, "colors":["green"]},
+            {"id":11074, "colors":["purple"]},
+            {"id":11075, "colors":["blue"]},
+            {"id":11076, "colors":["purple"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11087, "zone":"general", "category":"tattoo", "security":"a53219195ef3965d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Blood",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11087, "colors":["red"]},
+            {"id":11088, "colors":["yellow"]},
+            {"id":11089, "colors":["pink"]},
+            {"id":11090, "colors":["black"]},
+            {"id":11091, "colors":["white"]},
+            {"id":11092, "colors":["blue"]},
+            {"id":11093, "colors":["green"]},
+            {"id":11094, "colors":["green"]},
+            {"id":11095, "colors":["orange"]},
+            {"id":11096, "colors":["purple"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11097, "zone":"general", "category":"tattoo", "security":"cd50c81ab6d0be41", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Blood",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11097, "colors":["red"]},
+            {"id":11098, "colors":["yellow"]},
+            {"id":11099, "colors":["pink"]},
+            {"id":11100, "colors":["black"]},
+            {"id":11101, "colors":["white"]},
+            {"id":11102, "colors":["blue"]},
+            {"id":11103, "colors":["green"]},
+            {"id":11104, "colors":["green"]},
+            {"id":11105, "colors":["orange"]},
+            {"id":11106, "colors":["purple"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11077, "zone":"general", "category":"other", "security":"7817c9d858606712", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Blood",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11077, "colors":["red"]},
+            {"id":11078, "colors":["yellow"]},
+            {"id":11079, "colors":["pink"]},
+            {"id":11080, "colors":["black"]},
+            {"id":11081, "colors":["white"]},
+            {"id":11082, "colors":["blue"]},
+            {"id":11083, "colors":["green"]},
+            {"id":11084, "colors":["green"]},
+            {"id":11085, "colors":["orange"]},
+            {"id":11086, "colors":["purple"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11157, "zone":"general", "category":"other", "security":"f3c80b1db2ccdffd", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Fog",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11157, "colors":["brown"]},
+            {"id":11158, "colors":["green"]},
+            {"id":11159, "colors":["blue"]},
+            {"id":11160, "colors":["white"]},
+            {"id":11161, "colors":["black"]},
+            {"id":11162, "colors":["red"]},
+            {"id":11163, "colors":["pink"]},
+            {"id":11164, "colors":["orange"]},
+            {"id":11165, "colors":["purple"]},
+            {"id":11166, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
     }
 ]
