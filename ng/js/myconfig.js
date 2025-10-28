@@ -1,18 +1,18 @@
 var sucrette = {
     "avatar":{
-        "skin":"hortensia",
-        "hair":"brown",
-        "eyebrows":"1-5b720362ccbfc015",
-        "eyesColor":"brown",
+        "skin":"rose",
+        "hair":"pink",
+        "eyebrows":"7-900edda5def34164",
+        "eyesColor":"light_green",
         "eyes":"1-c8f85ec8f0f3ab2d",
-        "mouth":"2-d52f3502c5814f22",
+        "mouth":"143-9aed8576a4d41d52",
         "expressionPreset":7,
         "expression":{
             "eyebrow":"H_Mid",
             "eye":"N_Open_FrontLook",
             "mouth":"H_Closed"
         },
-
+        
         "customSkin":null
     },
     "orderInfo":[
