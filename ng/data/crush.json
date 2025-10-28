@@ -1,114 +1,286 @@
 [
-    {"id":1, "crushName":"Roy", "security":"4d78d4a46bd7238a"},
-    {"id":2, "crushName":"Amanda", "security":"5107e4b97283a11c"},
-    {"id":3, "crushName":"Devon", "security":"5351acc77b1e8b04"},
-    {"id":4, "crushName":"Thomas", "security":"7798d8babf27eae1"},
-
-    {"id":11, "crushName":"Jason", "security":"a1f7b12eb0271c70"},
-
-    {"id":17, "crushName":"Amanda", "security":"b050c1e281a88323"},
-    
-    {"id":19, "crushName":"Amanda", "security":"6950ee5c00ed9f7d"},
-
-    {"id":21, "crushName":"Roy", "security":"1abb70cc6640404f"},
-    {"id":22, "crushName":"Roy", "security":"e9c52d8cff39b5a0"},
-    {"id":23, "crushName":"Roy", "security":"de4844f5f2840ef7"},
-    {"id":24, "crushName":"Roy", "security":"e740d888cadc185e"},
-    {"id":25, "crushName":"Devon", "security":"e1b92f11eecc05e1"},
-    {"id":26, "crushName":"Devon", "security":"a4d487c42c494c3e"},
-    {"id":27, "crushName":"Devon", "security":"ac8de939ccc4e42c"},
-
-    {"id":29, "crushName":"Thomas", "security":"053b05d02e0fc9d8"},
-    {"id":30, "crushName":"Thomas", "security":"92ddb63cb1e8d708"},
-    {"id":31, "crushName":"Thomas", "security":"a4102f66ae9d0c21"},
-
-    {"id":33, "crushName":"Jason", "security":"1191ccf1dfda4a54"},
-    {"id":34, "crushName":"Jason", "security":"485569827b08de31"},
-    
-    {"id":39, "crushName":"Thomas", "security":"79027dd7de596920"},
-    {"id":40, "crushName":"Roy", "security":"1234cabc895be97b"},
-    {"id":41, "crushName":"Roy", "security":"2dfb75f35af6078a"},
-
-    {"id":52, "crushName":"Amanda", "security":"719c9c628f81e636"},
-
-    {"id":59, "crushName":"Devon", "security":"d829f9f164c59695"},
-    {"id":60, "crushName":"Devon", "security":"679ca18672bc8d26"},
-    {"id":61, "crushName":"Devon", "security":"e3f4654c8e75b0b6"},
-    {"id":62, "crushName":"Roy", "security":"8f57bd01f34c7c9c"},
-    {"id":63, "crushName":"Amanda", "security":"195a97fe4d8ba000"},
-    {"id":64, "crushName":"Amanda", "security":"ab4fd4e92328d48f"},
-    {"id":65, "crushName":"Amanda", "security":"bfbeab31df70b73e"},
-    {"id":66, "crushName":"Jason", "security":"1112e7573bddf7b4"},
-    {"id":67, "crushName":"Amanda", "security":"6160984c20965589"},
-    {"id":68, "crushName":"Thomas", "security":"f91c06a3b9152df3"},
-    {"id":69, "crushName":"Thomas", "security":"c570b3cacd04edd1"},
-
-    {"id":92, "crushName":"Roy", "security":"a7de13f5385454aa"},
-    {"id":93, "crushName":"Amanda", "security":"a9c1054453f7df67"},
-    {"id":94, "crushName":"Devon", "security":"37c331a19da12af4"},
-    {"id":95, "crushName":"Thomas", "security":"f99a045c97a0d330"},
-
-    {"id":98, "crushName":"Thomas", "security":"4743a42b1a958bdf"},
-    {"id":99, "crushName":"Devon", "security":"dbea6926b129b022"},
-    {"id":100, "crushName":"Thomas", "security":"5a41706c3de29a5f"},
-
-    {"id":106, "crushName":"Jason", "security":"01ec9bca9bb1b544"},
-    {"id":107, "crushName":"Jason", "security":"463cca5711772615"},
-
-    {"id":116, "crushName":"Devon", "security":"5ee3840706e61806"},
-    {"id":117, "crushName":"Jason", "security":"9f84174238bd60ca"},
-
-    {"id":120, "crushName":"Roy", "security":"cf4187327781e4d8"},
-    
-    {"id":134, "crushName":"Roy", "security":"489ecbf80ce7b407"},
-    {"id":135, "crushName":"Amanda", "security":"1b258089a08199c5"},
-    {"id":136, "crushName":"Devon", "security":"9d22d89c8d5d908a"},
-    {"id":137, "crushName":"Thomas", "security":"1ea01d657ce2f5bc"},
-    {"id":138, "crushName":"Jason", "security":"89e5c7a3ded950fc"},
-
-    {"id":151, "crushName":"Roy", "security":"79295a9645b0d394"},
-    {"id":152, "crushName":"Amanda", "security":"266da4c69e0a76ce"},
-    {"id":153, "crushName":"Devon", "security":"6ae08d544ef4e13c"},
-    {"id":154, "crushName":"Thomas", "security":"448e3fb2c64581b1"},
-    {"id":155, "crushName":"Jason", "security":"a77b670d0b62d9f0"},    
-    {"id":156, "crushName":"Roy", "security":"3d380aa13186c540"},
-    {"id":157, "crushName":"Roy", "security":"43cca53493182d63"},
-    {"id":158, "crushName":"Amanda", "security":"e9c379d2ff76cbe2"},
-
-    {"id":160, "crushName":"Devon", "security":"6c4bafc26ea7fb96"},
-    {"id":161, "crushName":"Thomas", "security":"c4e92b99066026b4"},
-
-    {"id":167, "crushName":"Jason", "security":"979f61a914168129"},
-
-    {"id":177, "crushName":"Jason", "security":"baed41c1aa466e8f"},
-    {"id":178, "crushName":"Jason", "security":"e2c0e2fa59dc6612"},
-
-    {"id":194, "crushName":"Jason", "security":"bdb20ab43fb89c2d"},
-
-    {"id":201, "crushName":"Devon", "security":"3593215314657769"},
-    {"id":202, "crushName":"Amanda", "security":"506b3d49a20ab183"},
-    {"id":203, "crushName":"Jason", "security":"e9b342715149254a"},
-    
-    {"id":218, "crushName":"Roy", "security":"6ac6396e007174b9"},
-    {"id":219, "crushName":"Amanda", "security":"77e6e27449b770e5"},
-    {"id":220, "crushName":"Devon", "security":"7194dff461bd8ebc"},
-    {"id":221, "crushName":"Thomas", "security":"07389cb9b890a92a"},
-    {"id":222, "crushName":"Jason", "security":"5f81363ad89b2ea9"},
-
-    {"id":235, "crushName":"Roy", "security":"02522819092191f3"},
-    {"id":236, "crushName":"Amanda", "security":"6f3fca2c2ff62c6a"},
-    {"id":237, "crushName":"Jason", "security":"c197eae5e462fb4c"},
-    {"id":238, "crushName":"Roy", "security":"88b701ce8794b889"},
-    {"id":239, "crushName":"Amanda", "security":"578a85bb8f07460c"},
-
-    {"id":243, "crushName":"Jason", "security":"f9f9d266ddd59577"},
-    {"id":244, "crushName":"Amanda", "security":"de127852cd8e9275"},
-    {"id":245, "crushName":"Devon", "security":"2b73d61658f747d5"},
-    {"id":246, "crushName":"Devon", "security":"8b043353ea6d95ee"},
-    {"id":247, "crushName":"Jason", "security":"b2b12ad2debfd8b6"},
-    {"id":248, "crushName":"Roy", "security":"9ed41e6f3bd9757d"},
-    {"id":249, "crushName":"Thomas", "security":"9793bafd3dd91a0b"},
-    {"id":250, "crushName":"Roy", "security":"0b69c3f2e25edf5f"},
-
-    {"id":261, "crushName":"Roy", "security":"cd6fcb0e5a2c7063"}
+    {
+        "id":1, "security":"4a89eb83fc720162", "releaseDate":"2024-04-17", "name":"Energized",
+        "criteria":{"type":"pack", "info":"Energized", "text":"Desbloqueado en el Pack exclusivo\nEnergized"}
+    },
+    {
+        "id":2, "security":"2f24112b3b80b9c3", "releaseDate":"2024-04-17", "name":"Worky Worky",
+        "criteria":{"type":"episode", "info":"01", "text":"Desbloqueado en el episodio 01"}
+    },
+    {
+        "id":3, "security":"72cf5f2a0a3fefa6", "releaseDate":"2024-04-17", "name":"Hippie Love",
+        "criteria":null
+    },
+    {
+        "id":4, "security":"a9c87ff8f9e91bf8", "releaseDate":"2024-04-17", "name":"Coffee Helper",
+        "criteria":null
+    },
+    {
+        "id":5, "security":"fa6409d630667f4c", "releaseDate":"2024-04-17", "name":"Marshmallow Fluff",
+        "criteria":{"type":"pack", "info":"Marshmallow Fluff", "text":"Desbloqueado en el Pack exclusivo\nMarshmallow Fluff"}
+    },
+    {
+        "id":6, "security":"4f1763bfac0310b0", "releaseDate":"2024-04-17", "name":"Spiky Wit",
+        "criteria":{"type":"pack", "info":"Spiky Wit", "text":"Desbloqueado en el Pack exclusivo\nSpiky Wit"}
+    },
+    {
+        "id":7, "security":"0cbe9bc2d2a31e6b", "releaseDate":"2024-04-17", "name":"Elven Call",
+        "criteria":{"type":"pack", "info":"Elven Call", "text":"Desbloqueado en el Pack exclusivo\nElven Call"}
+    },
+    {
+        "id":8, "security":"53cdb018f224fc1b", "releaseDate":"2024-04-17", "name":"Quiet Reading",
+        "criteria":{"type":"pack", "info":"Quiet Reading", "text":"Desbloqueado en el Pack exclusivo\nQuiet Reading"}
+    },
+    {
+        "id":9, "security":"095a85859e1cba7e", "releaseDate":"2024-04-17", "name":"Fairycore",
+        "criteria":{"type":"pack", "info":"Fairycore", "text":"Desbloqueado en el Pack exclusivo\nFairycore"}
+    },
+    {
+        "id":10, "security":"1cb89aed1e331dd3", "releaseDate":"2024-04-17", "name":"Pizza Delivery Goose",
+        "criteria":{"type":"episode", "info":"02", "text":"Desbloqueado en el episodio 02"}
+    },
+    {
+        "id":11, "security":"24a24f8194dfe1c6", "releaseDate":"2024-05-08", "name":"Pwetty Flawer",
+        "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"}
+    },
+    {
+        "id":12, "security":"d211a2b7e2c92af3", "releaseDate":"2024-06-05", "name":"Alluring Feathers",
+        "criteria":{"type":"episode", "info":"04", "text":"Desbloqueado en el episodio 04"}
+    },
+    {
+        "id":13, "security":"aa49a4367d4c9385", "releaseDate":"2024-07-03", "name":"¡Todos a cubierta!",
+        "criteria":{"type":"episode", "info":"05", "text":"Desbloqueado en el episodio 05"}
+    },
+    {
+        "id":14, "security":"01ee6f26d320e08c", "releaseDate":"2024-08-07", "name":"It Floats",
+        "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"}
+    },
+    {
+        "id":16, "security":"73198dac52050a52", "releaseDate":"2024-09-04", "name":"On and Off, and On, and Off, and...",
+        "criteria":{"type":"episode", "info":"07", "text":"Desbloqueado en el episodio 07"}
+    },
+    {
+        "id":17, "security":"a5219fdf5ad054a1", "releaseDate":"2024-10-02", "name":"Splashy Splash",
+        "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"}
+    },
+    {
+        "id":18, "security":"4e23470e302228a9", "releaseDate":"2024-04-17", "name":"Lady Regency",
+        "criteria":{"type":"pack", "info":"Lady Regency", "text":"Desbloqueado en el Pack exclusivo\nLady Regency"}
+    },
+    {
+        "id":19, "security":"39881ea8bf10e6be", "releaseDate":"2024-04-17", "name":"Plastic Life",
+        "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo\nPlastic Life"}
+    },
+    {
+        "id":20, "security":"cbf8946ff8b4824c", "releaseDate":"2024-04-17", "name":"Foggy Mystery",
+        "criteria":{"type":"pack", "info":"Foggy Mystery", "text":"Desbloqueado en el Pack exclusivo\nFoggy Mystery"}
+    },
+    {
+        "id":21, "security":"11d979f6cf9ac456", "releaseDate":"2024-04-17", "name":"Aren't We All a Bit Mad Here?",
+        "criteria":{"type":"pack", "info":"Aren't We All a Bit Mad Here?", "text":"Desbloqueado en el Pack exclusivo\nAren't We All a Bit Mad Here?"}
+    },
+    {
+        "id":22, "security":"fdeffffbe5d1526a", "releaseDate":"2024-04-17", "name":"Toot Tooooot!",
+        "criteria":null
+    },
+    {
+        "id":23, "security":"44962d2491e08432", "releaseDate":"2025-02-28", "name":"Diamonds are a Girl’s Best Friend",
+        "criteria":{"type":"episode", "info":"13", "text":"Desbloqueado en el episodio 13"}
+    },
+    {
+        "id":24, "security":"58bef60e7052ae1d", "releaseDate":"2025-01-01", "name":"Fashion you can buy, but style you possess",
+        "criteria":{"type":"episode", "info":"11", "text":"Desbloqueado en el episodio 11"}
+    },
+    {
+        "id":25, "security":"e54fe4ac642a1ea7", "releaseDate":"2024-11-06", "name":"ROARRR",
+        "criteria":{"type":"episode", "info":"09", "text":"Desbloqueado en el episodio 09"}
+    },
+    {
+        "id":26, "security":"fc0bb99b60d8628a", "releaseDate":"2024-12-04", "name":"Vroom Vroom",
+        "criteria":{"type":"episode", "info":"10", "text":"Desbloqueado en el episodio 10"}
+    },
+    {
+        "id":27, "security":"699a1c9ef0887c7c", "releaseDate":"2024-06-26", "name":"D.B. Gooser",
+        "criteria":null
+    },
+    {
+        "id":28, "security":"aa5af98de442d3b6", "releaseDate":"2024-09-16", "name":"Goose Game",
+        "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"}
+    },
+    {
+        "id":29, "security":"044d20201f7c779e", "releaseDate":"2025-01-31", "name":"Moss Goosewalker",
+        "criteria":{"type":"episode", "info":"12", "text":"Desbloqueado en el episodio 12"}
+    },
+    {
+        "id":30, "security":"749d2eb553b333b7", "releaseDate":"2025-07-03", "name":"Chomp Chomp",
+        "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"}
+    },
+    {
+        "id":31, "security":"2084937288975e20", "releaseDate":"2024-08-19", "name":"Belt of Venus",   
+        "criteria":null
+    },
+    {
+        "id":32, "security":"c6d27f6311dc6322", "releaseDate":"2024-09-06", "name":"ZEvent 2024",
+        "criteria":null
+    },
+    {
+        "id":33, "security":"8a3d9f621883a320", "releaseDate":"2024-10-21", "name":"Honk or Treat",
+        "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "id":34, "security":"fccccd016088757e", "releaseDate":"2024-10-28", "name":"Careful, I bite",
+        "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+    },
+    {
+        "id":35, "security":"f4b08bd1fe857d30", "releaseDate":"2024-11-29", "name":"Robin Goose",
+        "criteria":{"type":"pack", "info":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+    },
+    {
+        "id":36, "security":"01d59c6343aa0c3b", "releaseDate":"2024-12-19", "name":"Do You Want to Build a Snowgoose?",
+        "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+    },
+    {
+        "id":37, "security":"5d5d57ba51557dc0", "releaseDate":"2023-11-14", "name":"Divine Blessing",
+        "criteria":{"type":"pack", "info":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+    },
+    {
+        "id":38, "security":"a8aaa801f61dd4d9", "releaseDate":"2025-05-02", "name":"Honk Loud, Honk Proud!",
+        "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"}
+    },
+    {
+        "id":39, "security":"9895e4c5644a6b5a", "releaseDate":"2023-11-14", "name":"Infernal Embrace",
+        "criteria":{"type":"pack", "info":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+    },
+    {
+        "id":40, "security":"483115d60bd45f42", "releaseDate":"2023-11-14", "name":"Alien Ambassador",
+        "criteria":{"type":"pack", "info":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+    },
+    {
+        "id":41, "security":"2ff2c5d338d28eaa", "releaseDate":"2024-11-06", "name":"La Goosina",
+        "criteria":{"type":"gauge", "info":"Colorful Calavera", "text":"Desbloqueado en el evento de medidor\nColorful Calavera"}
+    },
+    {
+        "id":42, "security":"2d874190e665598e", "releaseDate":"2025-01-12", "name":"Tangloose",
+        "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "id":43, "security":"86735789be2a0393", "releaseDate":"2024-12-27", "name":"Graoose",
+        "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
+    },
+    {
+        "id":44, "security":"47eda0bb75432330", "releaseDate":"2025-03-26", "name":"Celestial Quack",
+        "criteria":null
+    },
+    {
+        "id":45, "security":"eaf4c2829ab48790", "releaseDate":"2025-03-26", "name":"G■■se",
+        "criteria":null
+    },
+    {
+        "id":46, "security":"09ed60d028a393b0", "releaseDate":"2025-03-26", "name":"Professor Quackenburg Feathersworth",
+        "criteria":null
+    },
+    {
+        "id":47, "security":"e93c2214c416dc2e", "releaseDate":"2025-03-26", "name":"Takanda",
+        "criteria":null
+    },
+    {
+        "id":48, "security":"4b9950537fb9d91d", "releaseDate":"2025-03-26", "name":"Takevon",
+        "criteria":null
+    },
+    {
+        "id":49, "security":"2d4bd8b597b485a2", "releaseDate":"2025-03-26", "name":"Takason",
+        "criteria":null
+    },
+    {
+        "id":50, "security":"ae610d1a171fd029", "releaseDate":"2025-03-26", "name":"Takoy",
+        "criteria":null
+    },
+    {
+        "id":51, "security":"f1b95a726ba9d525", "releaseDate":"2025-03-26", "name":"Takomas",
+        "criteria":null
+    },
+    {
+        "id":52, "security":"62ccac9008614d6e", "releaseDate":"2025-03-28", "name":"Goosebug",
+        "criteria":{"type":"episode", "info":"14", "text":"Desbloqueado en el episodio 14"}
+    },
+    {
+        "id":53, "security":"dc8db184f9669d56", "releaseDate":"2025-09-03", "name":"Lv3 SlimyGoose",
+        "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"}
+    },
+    {
+        "id":54, "security":"0fe02650a08ec057", "releaseDate":"2025-02-10", "name":"Saboteur Wingman",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+    },
+    {
+        "id":55, "security":"0dc18c270bef5432", "releaseDate":"2025-02-06", "name":"Helpful Wingman",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "id":56, "security":"e1572f583b00d88e", "releaseDate":"2025-02-27", "name":"Gaggling Lepregoose",
+        "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
+    },
+    {
+        "id":57, "security":"ce337d7b0240d189", "releaseDate":"2025-03-09", "name":"Goose in a Tux",
+        "criteria":null
+    },
+    {
+        "id":58, "security":"f5880a0df9634c4a", "releaseDate":"2025-04-08", "name":"ChocoGoose",
+        "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Desbloqueado durante el evento\nPascua 2025"}
+    },
+    {
+        "id":59, "security":"98c876729963ec6c", "releaseDate":"2025-04-01", "name":"It's Corn!",
+        "criteria":null
+    },
+    {
+        "id":60, "security":"e81ddf3c3b6e355b", "releaseDate":"2025-04-15", "name":"BAAAaaa... Honk!",
+        "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Desbloqueado en el Pack exclusivo\nCaring Shepherdess (Pascua 2025)"}
+    },
+    {
+        "id":61, "security":"8561e7c7860068b6", "releaseDate":"2025-04-29", "name":"Flaparazzi",
+        "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"}
+    },
+    {
+        "id":62, "security":"a1d98dfde628e346", "releaseDate":"2025-05-30", "name":"Honk & Loop",
+        "criteria":{"type":"episode", "info":"16", "text":"Desbloqueado en el episodio 16"}
+    },
+    {
+        "id":63, "security":"c1d1298e21ea7469", "releaseDate":"2025-06-27", "name":"Goostorm",
+        "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"}
+    },
+    {
+        "id":64, "security":"98c75d63291c5309", "releaseDate":"2025-05-28", "name":"Goosevanni",
+        "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor\nAllegro Ensemble"}
+    },
+    {
+        "id":65, "security":"d2b102ae04626434", "releaseDate":"2025-06-15", "name":"Devon's Influence",
+        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"}
+    },
+    {
+        "id":66, "security":"cd813f5bdd79d85b", "releaseDate":"2025-08-01", "name":"Duvet Diva",
+        "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"}
+    },
+    {
+        "id":67, "security":"b137f691a9f174d5", "releaseDate":"2025-07-10", "name":"Definitely a Parrot",
+        "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"}
+    },
+    {
+        "id":68, "security":"8074931790955a1f", "releaseDate":"2025-07-30", "name":"Kigoosumi",
+        "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"}
+    },
+    {
+        "id":69, "security":"95037d490bb0e6f2", "releaseDate":"2025-09-26", "name":"Beegoose",
+        "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"}
+    },
+    {
+        "id":70, "security":"96f54d7ebbcb973c", "releaseDate":"2025-08-29", "name":"SandGoose",
+        "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"}
+    },
+    {
+        "id":71, "security":"337ce79b21341736", "releaseDate":"2025-09-03", "name":"Nanny Honk",
+        "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"}
+    },
+    {
+        "id":72, "security":"dd1db122e71eca32", "releaseDate":"2025-09-03", "name":"Goose of Fortune",
+        "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"}
+    }
 ]
